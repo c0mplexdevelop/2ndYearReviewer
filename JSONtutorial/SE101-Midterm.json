@@ -1,0 +1,355 @@
+[
+  {
+    "Question": "An engineering approach on a software development of a systematic application.",
+    "CorrectAnswer": "Software Engineering",
+    "FakeAnswers": [ "Computer Science", "Information Technology", "Software Development" ]
+  },
+  {
+    "Question": "It is the process of analyzing user needs and designing, constructing, and testing end-user applications.",
+    "CorrectAnswer": "Software Engineering",
+    "FakeAnswers": [ "Software Testing", "Software Architecture", "Software Maintenance" ]
+  },
+  {
+    "Question": "These should be developed using a managed and understood approach",
+    "CorrectAnswer": "Software Engineering",
+    "FakeAnswers": [ "Software Project Management", "Software Quality Assurance", "Software Configuration Management" ]
+  },
+  {
+    "Question": "When appropriate, you should _____ software that has already been developed",
+    "CorrectAnswer": "Reuse",
+    "FakeAnswers": [ "Reinvent", "Redesign", "Recreate" ]
+  },
+  {
+    "Question": "This is more than simply upholding the law but involves following a set of principles that are morally correct.",
+    "CorrectAnswer": "Ethical Behavior",
+    "FakeAnswers": [ "Moral Conduct", "Legal Compliance", "Social Responsibility" ]
+  },
+  {
+    "Question": "This involves wider responsibilities than simply the application of technical skills.",
+    "CorrectAnswer": "Software Engineering",
+    "FakeAnswers": [ "Computer Science", "Information Technology", "Software Development" ]
+  },
+  {
+    "Question": "They must behave in an honest and ethically responsible way if they are to be respected as professionals.",
+    "CorrectAnswer": "Software Engineers",
+    "FakeAnswers": [ "Computer Scientists", "Software Developers", "IT Professionals" ]
+  },
+  {
+    "Question": "These systems were developed decades ago and have been continually modified to meet changes in business requirements and computing platforms.",
+    "CorrectAnswer": "Legacy Software",
+    "FakeAnswers": [ "Outdated Software", "Obsolete Software", "Antiquated Software" ]
+  },
+  {
+    "Question": "The proliferation of such systems is causing headaches for large organizations who find them costly to maintain and risky to evolve.",
+    "CorrectAnswer": "Legacy Software",
+    "FakeAnswers": [ "New Software", "Modern Software", "Innovative Software" ]
+  },
+  {
+    "Question": "This is an abstract representation of a process. It presents a description of a process from some particular perspective.",
+    "CorrectAnswer": "Software Process Model",
+    "FakeAnswers": [ "Software Design Model", "Software Development Model", "Software Testing Model" ]
+  },
+  {
+    "Question": "It is a continuous process, which starts from the moment, when it’s made a decision to launch the project, and it ends at the moment of its full remove from the exploitation.",
+    "CorrectAnswer": "Software Development Life Cycle Models",
+    "FakeAnswers": [ "Software Development Models", "Software Development Life Cycle", "Software Development Process" ]
+  },
+  {
+    "Question": "This is a cascade SDLC model, in which development process looks like the flow, moving step by step through the phases of analysis, projecting, realization, testing, implementation, and support.",
+    "CorrectAnswer": "Waterfall Model",
+    "FakeAnswers": [ "Agile Model", "Scrum Model", "Kanban Model" ]
+  },
+  {
+    "Question": "This is a SDLC model that does not need the full list of requirements before the project starts.",
+    "CorrectAnswer": "Iterative Model",
+    "FakeAnswers": [ "Waterfall Model", "Agile Model", "Scrum Model" ]
+  },
+  {
+    "Question": "This SDLC's development process may start with the requirements to the functional part, which can be expanded later. The process is repetitive, allowing to make new versions of the product for every cycle.",
+    "CorrectAnswer": "Iterative Model",
+    "FakeAnswers": [ "Waterfall Model", "Agile Model", "Scrum Model" ]
+  },
+  {
+    "Question": "This isa SDLC model, which combines architecture and prototyping by stages.",
+    "CorrectAnswer": "Spiral Model",
+    "FakeAnswers": [ "Agile Model", "Waterfall Model", "Iterative Model" ]
+  },
+  {
+    "Question": "It is a combination of the Iterative and Waterfall SDLC models with the significant accent on the risk analysis.",
+    "CorrectAnswer": "Spiral Model",
+    "FakeAnswers": [ "Agile Model", "Waterfall Model", "Iterative Model" ]
+  },
+  {
+    "Question": "This SDLC model is an expansion of classic waterfall model and it’s based on associated test stage for the every development stage.",
+    "CorrectAnswer": "V-shaped model",
+    "FakeAnswers": [ "Agile Model", "Waterfall Model", "Iterative Model" ]
+  },
+  {
+    "Question": "This SDLC model is an expansion of classic waterfall model and it’s based on associated test stage for the every development stage.",
+    "CorrectAnswer": "V-shaped model",
+    "FakeAnswers": [ "Agile Model", "Waterfall Model", "Iterative Model" ]
+  },
+  {
+    "Question": "This is a very strict model and the next stage is started only after the previous phase.",
+    "CorrectAnswer": "V-shaped model",
+    "FakeAnswers": [ "Agile Model", "Waterfall Model", "Iterative Model" ]
+  },
+  {
+    "Question": "This is also called “Validation and verification” model.",
+    "CorrectAnswer": "V-shaped model",
+    "FakeAnswers": [ "Agile Model", "Waterfall Model", "Iterative Model" ]
+  },
+  {
+    "Question": "This SDLC model requuires that after every development iteration, the customer is able to see the result and understand if he is satisfied with it or he is not.",
+    "CorrectAnswer": "Agile Model",
+    "FakeAnswers": [ "Waterfall Model", "Iterative Model", "Spiral Model" ]
+  },
+  {
+    "Question": "Extreme programming is one of the practical use of this model. The basis of such model consists of short weekly meetings – Sprints which are the part of the Scrum approach.",
+    "CorrectAnswer": "Agile Model",
+    "FakeAnswers": [ "Waterfall Model", "Iterative Model", "Spiral Model" ]
+  },
+  {
+    "Question": "SEI stands for:",
+    "CorrectAnswer": "Software Engineering Institute",
+    "FakeAnswers": [ "Software Engineering Initiative", "Software Engineering Implementation", "Software Engineering Improvement" ]
+  },
+  {
+    "Question": "CMM stands for:",
+    "CorrectAnswer": "Capability Maturity Model",
+    "FakeAnswers": [ "Capability Management Model", "Capability Measurement Model", "Capability Monitoring Model" ]
+  },
+  {
+    "Question": "This model specifies an increasing series of levels of a software development organization. The higher the level, the better the software development process, hence reaching each level is an expensive and time-consuming process.",
+    "CorrectAnswer": "Capability Maturity Model",
+    "FakeAnswers": [ "Software Development Life Cycle Model", "Agile Model", "Waterfall Model" ]
+  },
+  {
+    "Question": "SPI stands for:",
+    "CorrectAnswer": "Software Process Improvement",
+    "FakeAnswers": [ "Software Product Improvement", "Software Performance Improvement", "Software Platform Improvement" ]
+  },
+  {
+    "Question": "This methodology is defined as a sequence of tasks, tools, and techniques to plan and implement improvement activities to achieve specific goals such as increasing development speed, achieving higher product quality or reducing costs.",
+    "CorrectAnswer": "Software Process Improvement",
+    "FakeAnswers": [ "Software Development Life Cycle Model", "Agile Model", "Waterfall Model" ]
+  },
+  {
+    "Question": "This can be considered as process re-engineering or change management project to detect the software development lifecycle inefficiencies and resolve them to have a better process. This process should be mapped and aligned with organizational goals and change drivers to have real value to the organization.",
+    "CorrectAnswer": "Software Process Improvement",
+    "FakeAnswers": [ "Software Development Life Cycle Model", "Agile Model", "Waterfall Model" ]
+  },
+  {
+    "Question": "This helps in estimation, quality control, productivity assessment and project control throughout a software project.",
+    "CorrectAnswer": "Measurement",
+    "FakeAnswers": [ "Software Development Life Cycle Model", "Agile Model", "Waterfall Model" ]
+  },
+  {
+    "Question": "This is used by software engineers to gain insight into the design and development of the work products.",
+    "CorrectAnswer": "Measurement",
+    "FakeAnswers": [ "Software Development Life Cycle Model", "Agile Model", "Waterfall Model" ]
+  },
+  {
+    "Question": "This assists in strategic decision-making as a project proceeds.",
+    "CorrectAnswer": "Measurement",
+    "FakeAnswers": [ "Software Development Life Cycle Model", "Agile Model", "Waterfall Model" ]
+  },
+  {
+    "Question": "This is a disciplined examination of the software processes used by an organization, based on a process model.",
+    "CorrectAnswer": "Software Process Assessment",
+    "FakeAnswers": [ "Software Development Life Cycle Assessment", "Agile Assessment", "Waterfall Assessment" ]
+  },
+  {
+    "Question": "This includes the identification and characterization of current practices, identifying areas of strengths and weaknesses, and the ability of current practices to control or avoid significant causes of poor (software) quality, cost, and schedule.",
+    "CorrectAnswer": "Software Process Assessment",
+    "FakeAnswers": [ "Software Development Life Cycle Assessment", "Agile Assessment", "Waterfall Assessment" ]
+  },
+  {
+    "Question": "The scope of a software process assessment can cover all the processes in the organization, a selected subset of the software processes, or a specific project. Most of the standard-based process assessment approaches are invariably based on the concept of process maturity. When the assessment target is the organization, the results of a process assessment may differ, even on successive applications of the same method.",
+    "CorrectAnswer": "Software Process Maturity Assessment",
+    "FakeAnswers": [ "Software Development Life Cycle Assessment", "Agile Assessment", "Waterfall Assessment" ]
+  },
+  {
+    "Question": "This refers to the branch of project management dedicated to planning, scheduling, resource allocation, execution, tracking and delivery of software and web project.",
+    "CorrectAnswer": "Software Project Management",
+    "FakeAnswers": [ "Software Development Life Cycle Model", "Agile Model", "Waterfall Model" ]
+  },
+  {
+    "Question": "This role develop a project plan, manage deliverables according to the plan, recruit project staff, Lead and manage the project team, Determine the methodology used on the project, Established a project schedule and determine each phase, assign task to project team members, provide regular updates to upper management.",
+    "CorrectAnswer": "Project Manager",
+    "FakeAnswers": [ "Functional Manager", "Operational Manager", "Change Manager" ]
+  },
+  {
+    "Question": "This role assigns the project, discuss how well person is doing the work and if person wants to continue doing it (providing opportunities for growth), gathering information from the other PMs to write the evaluation, work with member to set and coach on career goals,",
+    "CorrectAnswer": "Functional Manager",
+    "FakeAnswers": [ "Project Manager", "Operational Manager", "Change Manager" ]
+  },
+  {
+    "Question": "This role supervises the coordination and Supervision, Financial, HR, improve process and policies,",
+    "CorrectAnswer": "Operational Manager",
+    "FakeAnswers": [ "Project Manager", "Functional Manager", "Change Manager" ]
+  },
+  {
+    "Question": "This role ensures that the requirements of the business client are captured and documented correctly before a solution is developed and implemented. coordinate and monitor the work of various department,",
+    "CorrectAnswer": "Analyst",
+    "FakeAnswers": [ "Project Manager", "Functional Manager", "Operational Manager" ]
+  },
+  {
+    "Question": "This role accept changes to the project requirements, budget and timelines,",
+    "CorrectAnswer": "Change Manager",
+    "FakeAnswers": [ "Project Manager", "Functional Manager", "Operational Manager" ]
+  },
+  {
+    "Question": "This role handles the models, designs and creates the databases and tables used by the software solution,",
+    "CorrectAnswer": "Database Administrator",
+    "FakeAnswers": [ "Project Manager", "Functional Manager", "Operational Manager" ]
+  },
+  {
+    "Question": "This role actually develops and build the solution,",
+    "CorrectAnswer": "Developer",
+    "FakeAnswers": [ "Project Manager", "Functional Manager", "Operational Manager" ]
+  },
+  {
+    "Question": "What are the three components of software?",
+    "CorrectAnswer": "Instructions (computer programs), data structures, and descriptive information",
+    "FakeAnswers": [ "Algorithms, data structures, and user interfaces", "Source code, binary code, and documentation", "Programming languages, compilers, and interpreters" ]
+  },
+  {
+    "Question": "Identify the term: It is composed of instructions (computer programs), data structures, and descriptive information.",
+    "CorrectAnswer": "Software",
+    "FakeAnswers": [ "Hardware", "Firmware", "Middleware" ]
+  },
+  {
+    "Question": "What is a key difference between software and hardware?",
+    "CorrectAnswer": "Software is developed or engineered, it is not manufactured in the classical sense",
+    "FakeAnswers": [ "Software can be physically touched while hardware cannot", "Software is less complex than hardware", "Software requires electricity to function while hardware does not" ]
+  },
+  {
+    "Question": "Identify the term: It is developed or engineered, it is not manufactured in the classical sense.",
+    "CorrectAnswer": "Software",
+    "FakeAnswers": [ "Hardware", "Firmware", "Middleware" ]
+  },
+  {
+    "Question": "What is a WebApp in its simplest form?",
+    "CorrectAnswer": "A set of linked hypertext files that present information using text and limited graphics",
+    "FakeAnswers": [ "A complex software program that requires a web server to function", "A mobile application that requires internet access", "A desktop application that uses web technologies for its user interface" ]
+  },
+  {
+    "Question": "Identify the term: In their simplest form, they can be little more than a set of linked hypertext files that present information using text and limited graphics.",
+    "CorrectAnswer": "WebApps",
+    "FakeAnswers": [ "Mobile Apps", "Desktop Apps", "Software" ]
+  },
+  {
+    "Question": "What is a characteristic of Artificial Intelligence (AI) software?",
+    "CorrectAnswer": "It makes use of nonnumerical algorithms to solve complex problems",
+    "FakeAnswers": [ "It can only solve numerical problems", "It is used exclusively for game development", "It requires a physical robot to function" ]
+  },
+  {
+    "Question": "Identify the term: It makes use of nonnumerical algorithms to solve complex problems that are not amenable to computation or straightforward analysis.",
+    "CorrectAnswer": "Artificial Intelligence (AI) software",
+    "FakeAnswers": [ "WebApps", "Embedded software", "System Software" ]
+  },
+  {
+    "Question": "What is the purpose of embedded software?",
+    "CorrectAnswer": "It resides within a product or system and is used to implement and control features and functions for the end user and for the system itself",
+    "FakeAnswers": [ "It is used to develop mobile applications", "It is used to create web applications", "It is used to write operating systems" ]
+  },
+  {
+    "Question": "Identify the term: It resides within a product or system and is used to implement and control features and functions for the end user and for the system itself.",
+    "CorrectAnswer": "Embedded software",
+    "FakeAnswers": [ "WebApps", "Artificial Intelligence (AI) software", "System Software" ]
+  },
+  {
+    "Question": "What is a characteristic of product-line software?",
+    "CorrectAnswer": "It is designed to provide a specific capability for use by many different customers",
+    "FakeAnswers": [ "It is always free to use", "It is used to write other software", "It is only used by a single customer" ]
+  },
+  {
+    "Question": "Identify the term: It is designed to provide a specific capability for use by many different customers.",
+    "CorrectAnswer": "Product-line software",
+    "FakeAnswers": [ "WebApps", "Artificial Intelligence (AI) software", "Embedded software" ]
+  },
+  {
+    "Question": "What is a characteristic of engineering/scientific software?",
+    "CorrectAnswer": "It has been characterized by 'number crunching' algorithms",
+    "FakeAnswers": [ "It is used exclusively for business applications", "It is used to write other software", "It is always open source" ]
+  },
+  {
+    "Question": "Identify the term: It has been characterized by 'number crunching' algorithms.",
+    "CorrectAnswer": "Engineering/scientific Software",
+    "FakeAnswers": [ "WebApps", "Artificial Intelligence (AI) software", "Embedded software" ]
+  },
+  {
+    "Question": "What is the purpose of application software?",
+    "CorrectAnswer": "Stand-alone programs that solve a specific business need",
+    "FakeAnswers": [ "It is used to develop mobile applications", "It is used to create web applications", "It is used to write operating systems" ]
+  },
+  {
+    "Question": "Identify the term: Stand-alone programs that solve a specific business need.",
+    "CorrectAnswer": "Application Software",
+    "FakeAnswers": [ "WebApps", "Artificial Intelligence (AI) software", "Embedded software" ]
+  },
+  {
+    "Question": "What is the purpose of system software?",
+    "CorrectAnswer": "A collection of programs written to service other programs",
+    "FakeAnswers": [ "It is used to develop mobile applications", "It is used to create web applications", "It is used to write operating systems" ]
+  },
+  {
+    "Question": "Identify the term: A collection of programs written to service other programs.",
+    "CorrectAnswer": "System Software",
+    "FakeAnswers": [ "WebApps", "Artificial Intelligence (AI) software", "Embedded software" ]
+  },
+  
+  {
+    "Question": "What precipitates a software project?",
+    "CorrectAnswer": "A business need",
+    "FakeAnswers": [ "New programming language", "New software trend", "New computer model" ]
+  },
+  {
+    "Question": "What's a software practitioner's myth?",
+    "CorrectAnswer": "Programming was viewed as an art form",
+    "FakeAnswers": [ "Software development is easy", "All software is bug-free", "Software doesn't need maintenance" ]
+  },
+  {
+    "Question": "Who could request computer software?",
+    "CorrectAnswer": "A person at the next desk, a technical group, the marketing department, or an outside company",
+    "FakeAnswers": [ "Hardware manufacturer", "Network service provider", "Data center operator" ]
+  },
+  {
+    "Question": "What's a common myth among software managers?",
+    "CorrectAnswer": "Managers are under pressure to maintain budgets, keep schedules, and improve quality",
+    "FakeAnswers": [ "Managers can predict cost and timeline", "Managers can prevent software defects", "Managers don't need to understand software" ]
+  },
+  {
+    "Question": "What is legacy software?",
+    "CorrectAnswer": "Old systems modified to meet changes in business requirements and computing platforms",
+    "FakeAnswers": [ "Software using latest technologies", "Software no longer in use", "Software from a defunct company" ]
+  },
+  {
+    "Question": "What does ethical behavior in software engineering involve?",
+    "CorrectAnswer": "Following morally correct principles, behaving honestly and ethically",
+    "FakeAnswers": [ "Maximizing profit, minimizing cost", "Following software trends, using popular languages", "Working long hours, meeting deadlines" ]
+  },
+  {
+    "Question": "What is the essence of software engineering practice?",
+    "CorrectAnswer": "Understanding the problem, planning a solution, carrying out the plan, examining the result",
+    "FakeAnswers": [ "Writing code, debugging code", "Designing user interfaces, conducting user testing", "Setting up environments, managing software versions" ]
+  },
+  {
+    "Question": "How does the IEEE define software engineering?",
+    "CorrectAnswer": "Application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software",
+    "FakeAnswers": [ "Process of writing code, testing code, fixing bugs", "Art of creating beautiful, efficient software", "Science of understanding computers and making them do what we want" ]
+  },
+  {
+    "Question": "What is software engineering?",
+    "CorrectAnswer": "An engineering approach on a software development of systematic application",
+    "FakeAnswers": [ "Process of designing and building hardware", "Study of computer science and information technology", "Art of creating digital graphics and animations" ]
+  },
+  {
+    "Question": "What is the evolving role of software?",
+    "CorrectAnswer": "It is a product and the vehicle for delivering a product",
+    "FakeAnswers": [ "Tool for creating websites and mobile apps", "Method for storing and retrieving data", "Protocol for communicating over the internet" ]
+  }
+  
+
+]
