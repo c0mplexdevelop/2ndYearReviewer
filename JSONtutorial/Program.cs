@@ -18,6 +18,7 @@ random.Shuffle(questionArray);
 while (turns < maxScore)
 {
     QuestionClass questionClass = questionArray[turns];
+    Console.WriteLine($"{turns + 1}/{maxScore}. ");
     Console.WriteLine(questionClass.Question);
     int currentFakeAnswerIndex = 0;
     int correctAnswerRandomIndex = random.Next(questionClass.FakeAnswers.Length);
