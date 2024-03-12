@@ -420,6 +420,82 @@
         "Question" : "This principle states that some aspects of the User Interface enjoy more attention of the user than others. The user finds same attributes and aspects of the user interface more attractive as compared to others. The human mind is a highly non-linear and has a perfect coordination with the eyes. Thus our eyes are more observant towards animated areas rather than the static are in an application.",
         "CorrectAnswer" : "Focus",
         "FakeAnswers" : []
+    },
+    {
+        "Question": "It involes designing a user interface to possess human-like qualities",
+        "CorrectAnswer": "Anthropomorphic Approach",
+        "FakeAnswers": []
+    },
+    {
+        "Question": "Are the perceivable potential actions that an individual may do with an object",
+        "CorrectAnswer": "Affordances",
+        "FakeAnswers": []
+    },
+    {
+        "Question": "It indicates the limitations of user actions.",
+        "CorrectAnswer": "Constraints",
+        "FakeAnswers": []
+    },
+    {
+        "Question": "In designing a user interface, this method takes into account the human brain's ability and sensory experience.",
+        "CorrectAnswer": "Cognitive Approach",
+        "FakeAnswers": []
+    },
+    {
+        "Question": "It relies on the user's familiarity with another concept as well as affordances to help them understand the actions they should take",
+        "CorrectAnswer": "Metaphoric Design",
+        "FakeAnswers": []
+    },
+    {
+        "Question": "In designing an interface, It's important to consider the user's attention span and the mental workload involved in completing a task",
+        "CorrectAnswer": "Attention and Workload Models",
+        "FakeAnswers": []
+    },
+    {
+        "Question": "It describes the movement of information from the environment into the human mide and back into the world.",
+        "CorrectAnswer": "Human Information Processing Model",
+        "FakeAnswers": []
+    },
+    {
+        "Question": "This approach is useful for examining and comparing the usability of multiple conceptual designs",
+        "CorrectAnswer": "Empirical Approach",
+        "FakeAnswers": []
+    },
+    {
+        "Question": "It measures user's task performace is important for determining how intuitive and user-friendly a web page is",
+        "CorrectAnswer": "Human Task Performance Measures",
+        "FakeAnswers": []
+    },
+    {
+        "Question": "It is also know as Split Testing which is a technique for comparing different versions of a template or interface to see which one gets the most conversions",
+        "CorrectAnswer": "A/B Testing",
+        "FakeAnswers": []
+    },
+    {
+        "Question": "It analyzes the individual components of a user interface in terms of the time it takes to effectively achieve an objective using a process called GOMS (Goals,Operators,Methods,and Selection Rules.)",
+        "CorrectAnswer": "Predictive Modeling Approach",
+        "FakeAnswers": []
+    },
+    {
+        "Question": "In Predictive Modeling Approach, it is the tasks assigned to users, such as sending emails to customers",
+        "CorrectAnswer": "Goals",
+        "FakeAnswers": []
+    },
+    {
+        "Question": "In Predictive Modeling Approach, it is the helper in user's activities to accomplish a task",
+        "CorrectAnswer": "Operators",
+        "FakeAnswers": []
+    },
+    {
+        "Question": "In Predictive Modeling Approach, it is the series of operators and sub-goals that the user uses to accomplish a task",
+        "CorrectAnswer": "Methods",
+        "FakeAnswers": []
+    },
+    {
+        "Question": "In Predictive Modeling Approach, it is the user's persona decision on which method to achieve a goal in a given situation",
+        "CorrectAnswer": "Selection Rules",
+        "FakeAnswers": []
     }
+    
     
 ]
