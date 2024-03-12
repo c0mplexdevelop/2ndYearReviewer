@@ -1,0 +1,177 @@
+[
+    {
+      "Question": "It involves eliciting information from the customer about the work environment, or domain, in which the final product will function in life cycle.",
+      "CorrectAnswer": "Requirements Specification",
+      "FakeAnswers": []
+    },
+    {
+      "Question": "It is the first activity that has a high-level decomposition of the system into components that can either be brought in from existing software products or be developed from scratch independently.",
+      "CorrectAnswer": "Architectural Design",
+      "FakeAnswers": []
+    },
+    {
+      "Question": "It is an architectural design that provides a decomposition of the system description that allows for isolated development of seperate components which will later be integrated.",
+      "CorrectAnswer": "Detailed Design",
+      "FakeAnswers": []
+    },
+    {
+      "Question": "It is a detailed design for a component of the system should be in such a form that it is possible to implement it in some executable programming language.",
+      "CorrectAnswer": "Coding and Unit Testing",
+      "FakeAnswers": []
+    },
+    {
+      "Question": "It is once enough components have been implemented and individually tested, they must be integrated as described in the architectural design.",
+      "CorrectAnswer": "Integration and Testing",
+      "FakeAnswers": []
+    },
+    {
+      "Question": "It is all work on the system is considered under the category of maintenance, until such time as a new version of the product demands a total redesign or the product is phased out entirely",
+      "CorrectAnswer": "Maintenance",
+      "FakeAnswers": []
+    },
+    {
+      "Question": "It is the ultimate test of usability based on measurement of user experience. It demands that specific usability measures be made explicit as requirements",
+      "CorrectAnswer": "Usability Engineering",
+      "FakeAnswers": []
+    },
+    {
+      "Question": "4 Specifications of Usability",
+      "CorrectAnswer": "Usability Attribute/Principle, Measuring Concept, Measuring Method, New Level/Worst Case/PlannedLevel/BestCase",
+      "FakeAnswers": []
+    },
+    {
+      "Question": "It is a usability specification that requires level of detail that may not be possible early in design satisfying a usability specification does not necessarily satisfy usability",
+      "CorrectAnswer": "Problems",
+      "FakeAnswers": []
+    },
+    {
+      "Question": "It overcomes inherent problems of incomplete requirements",
+      "CorrectAnswer": "Iterative Design",
+      "FakeAnswers": []
+    },
+    {
+      "Question": "4 management issues in Iterative design",
+      "CorrectAnswer": "Time, Planning, Non-Functional Features, Contracts",
+      "FakeAnswers": []
+    },
+    {
+      "Question": "Four Main Phases in Software Process + the Iteration Loop that is focused on the design of interaction",
+      "CorrectAnswer": "What is wanted, Analysis, Design, Prototype, Implement and Deploy",
+      "FakeAnswers": []
+    },
+    {
+      "Question": "It is the first stage in four main phases of software process that is establishing what exactly is needed",
+      "CorrectAnswer": "What is wanted",
+      "FakeAnswers": []
+    },
+    {
+      "Question": "It is the result of observation and interview in 4 main phases in software cycle, need to be ordered in some way to bring out key issues and communicate with later stages of design.",
+      "CorrectAnswer": "Analysis",
+      "FakeAnswers": []
+    },
+    {
+      "Question": "The central stage in 4 main phases of software cycle when you move from what you want, how to do it.",
+      "CorrectAnswer": "Design",
+      "FakeAnswers": []
+    },
+    {
+      "Question": "Tt is the process in 4 main phase of software cycle that the system is producing its early version to try out with real users",
+      "CorrectAnswer": "Iteration and Prototyping",
+      "FakeAnswers": []
+    },
+  {
+    "Question": "The last phase in 4 main phase of Software Cycle that after the design, it is needed to be create and deploy. It involves writing code, documentations and manual",
+    "CorrectAnswer": "Implementation and Deployment",
+    "FakeAnswers": []
+  },
+  
+  {
+    "Question": "It involves eliciting information from the customer about the work environment, or domain, in which the final product will function in life cycle.",
+    "CorrectAnswer": "Requirements Specification",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is the first activity that has a high-level decomposition of the system into components that can either be brought in from existing software products or be developed from scratch independently.",
+    "CorrectAnswer": "Architectural Design",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is an architectural design that provides a decomposition of the system description that allows for isolated development of seperate components which will later be integrated.",
+    "CorrectAnswer": "Detailed Design",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is a detailed design for a component of the system should be in such a form that it is possible to implement it in some executable programming language.",
+    "CorrectAnswer": "Coding and Unit Testing",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is once enough components have been implemented and individually tested, they must be integrated as described in the architectural design.",
+    "CorrectAnswer": "Integration and Testing",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is all work on the system is considered under the category of maintenance, until such time as a new version of the product demands a total redesign or the product is phased out entirely",
+    "CorrectAnswer": "Maintenance",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is the ultimate test of usability based on measurement of user experience. It demands that specific usability measures be made explicit as requirements",
+    "CorrectAnswer": "Usability Engineering",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "4 Specifications of Usability",
+    "CorrectAnswer": "Usability Attribute/Principle, Measuring Concept, Measuring Method, New Level/Worst Case/PlannedLevel/BestCase",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is a usability specification that requires level of detail that may not be possible early in design satisfying a usability specification does not necessarily satisfy usability",
+    "CorrectAnswer": "Problems",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It overcomes inherent problems of incomplete requirements",
+    "CorrectAnswer": "Iterative Design",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "4 management issues in Iterative design",
+    "CorrectAnswer": "Time, Planning, Non-Functional Features, Contracts",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "Four Main Phases in Software Process + the Iteration Loop that is focused on the design of interaction",
+    "CorrectAnswer": "What is wanted, Analysis, Design, Prototype, Implement and Deploy",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is the first stage in four main phases of software process that is establishing what exactly is needed",
+    "CorrectAnswer": "What is wanted",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is the result of observation and interview in 4 main phases in software cycle, need to be ordered in some way to bring out key issues and communicate with later stages of design.",
+    "CorrectAnswer": "Analysis",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "The central stage in 4 main phases of software cycle when you move from what you want, how to do it.",
+    "CorrectAnswer": "Design",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "Tt is the process in 4 main phase of software cycle that the system is producing its early version to try out with real users",
+    "CorrectAnswer": "Iteration and Prototyping",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "The last phase in 4 main phase of Software Cycle that after the design, it is needed to be create and deploy. It involves writing code, documentations and manual",
+    "CorrectAnswer": "Implementation and Deployment",
+    "FakeAnswers": []
+  }
+
+
+  
+
+]

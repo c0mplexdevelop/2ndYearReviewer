@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text.Json;
 using Reviewer;
 
-using FileStream jsonReader = File.OpenRead("SE101-Midterm.json");
+using FileStream jsonReader = File.OpenRead("HC101-Midterms.json");
 QuestionClass[] questionArray = JsonSerializer.Deserialize<QuestionClass[]>(jsonReader) ?? throw new Exception("Json is empty!") ;
 int score = 0;
 int maxScore = questionArray!.Length;
@@ -23,27 +23,47 @@ while (turns < maxScore)
     int correctAnswerRandomIndex = random.Next(questionClass.FakeAnswers.Length);
     var correctAnswerLetter = "";
     var lettersList = new List<string> { "A", "B", "C", "D" };
-    for (int idx = 0; idx < questionClass.FakeAnswers.Length + 1; idx++)
+    if (questionClass.FakeAnswers.Length < 1)
     {
-        if (idx == correctAnswerRandomIndex)
-        {
-            Console.WriteLine($"{lettersList[idx]}. {questionClass.CorrectAnswer}");
-            correctAnswerLetter = lettersList[idx];
-            continue;
-        }
-        Console.WriteLine($"{lettersList[idx]}. {questionClass.FakeAnswers[currentFakeAnswerIndex]}");
-        currentFakeAnswerIndex++;
-    }
 
-    string userAnswer = Console.ReadLine() ?? "";
-    if (userAnswer.ToLower() == questionClass.CorrectAnswer.ToLower() || userAnswer.ToUpper() == correctAnswerLetter)
-    {
-        score++;
-        Console.WriteLine("Correct!");
+        string userAnswer = Console.ReadLine() ?? "";
+        if (userAnswer.ToLower() == questionClass.CorrectAnswer.ToLower())
+        {
+            score++;
+            Console.WriteLine("Correct!");
+        }
+        else
+        {
+            Console.WriteLine($"Wrong! The correct answer is: {questionClass.CorrectAnswer}");
+        }
+
     }
     else
     {
-        Console.WriteLine($"Wrong! The correct answer is: {questionClass.CorrectAnswer}");
+
+        for (int idx = 0; idx < questionClass.FakeAnswers.Length + 1; idx++)
+        {
+            if (idx == correctAnswerRandomIndex)
+            {
+                Console.WriteLine($"{lettersList[idx]}. {questionClass.CorrectAnswer}");
+                correctAnswerLetter = lettersList[idx];
+                continue;
+            }
+            Console.WriteLine($"{lettersList[idx]}. {questionClass.FakeAnswers[currentFakeAnswerIndex]}");
+            currentFakeAnswerIndex++;
+        }
+
+        string userAnswer = Console.ReadLine() ?? "";
+        if (userAnswer.ToLower() == questionClass.CorrectAnswer.ToLower() || userAnswer.ToUpper() == correctAnswerLetter)
+        {
+            score++;
+            Console.WriteLine("Correct!");
+        }
+        else
+        {
+            Console.WriteLine($"Wrong! The correct answer is: {questionClass.CorrectAnswer}");
+        }
+
     }
 
     Console.WriteLine();

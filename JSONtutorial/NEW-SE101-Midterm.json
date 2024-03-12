@@ -1,0 +1,607 @@
+[
+  {
+    "Question": "What is Software Engineering?",
+    "CorrectAnswer": "An engineering approach on a software development of systematic application",
+    "FakeAnswers": [
+      "A programming language",
+      "A type of computer hardware",
+      "A branch of mathematics"
+    ]
+  },
+  {
+    "Question": "What process is involved in Software Engineering?",
+    "CorrectAnswer": "A process of analyzing user needs and designing, constructing, and testing end-user applications that will satisfy these needs through the use of software programming languages",
+    "FakeAnswers": [
+      "Building physical structures",
+      "Maintaining computer networks",
+      "Providing technical support"
+    ]
+  },
+  {
+    "Question": "What approach should be used for developing systems?",
+    "CorrectAnswer": "Systems should be developed using a managed and understood development process",
+    "FakeAnswers": [
+      "Systems should be developed without any planning",
+      "Systems should be developed using ad-hoc methods",
+      "Systems should be developed using trial and error"
+    ]
+  },
+  {
+    "Question": "What factors are important for all types of systems?",
+    "CorrectAnswer": "Dependability and performance are important for all types of system",
+    "FakeAnswers": [
+      "Cost and complexity are important for all types of system",
+      "Speed and efficiency are important for all types of system",
+      "Size and weight are important for all types of system"
+    ]
+  },
+  {
+    "Question": "What aspect of software specifications and requirements is emphasized as important?",
+    "CorrectAnswer": "Understanding and managing the software specification and requirements (what the software should do) are important",
+    "FakeAnswers": [
+      "Ignoring the software specification and requirements",
+      "Changing the software specification and requirements frequently",
+      "Misunderstanding the software specification and requirements"
+    ]
+  },
+  {
+    "Question": "What is recommended regarding reusing existing software?",
+    "CorrectAnswer": "Where appropriate, you should reuse software that has already been developed rather than write new software",
+    "FakeAnswers": [
+      "Always write new software from scratch",
+      "Never reuse existing software",
+      "Ignore existing software and start from scratch"
+    ]
+  },
+  {
+    "Question": "What does ethical behavior involve beyond upholding the law?",
+    "CorrectAnswer": "Ethical behaviour is more than simply upholding the law but involves following a set of principles that are morally correct",
+    "FakeAnswers": [
+      "Ethical behavior only involves upholding the law",
+      "Ethical behavior has no principles beyond the law",
+      "Ethical behavior is separate from moral principles"
+    ]
+  },
+  {
+    "Question": "What does the excerpt suggest about the responsibilities of software engineers?",
+    "CorrectAnswer": "Software engineering involves wider responsibilities than simply the application of technical skills",
+    "FakeAnswers": [
+      "Software engineering only involves technical skills",
+      "Software engineering has no responsibilities beyond technical skills",
+      "Software engineering is limited to technical skills"
+    ]
+  },
+  {
+    "Question": "What is required for software engineers to be respected as professionals?",
+    "CorrectAnswer": "Software engineers must behave in an honest and ethically responsible way if they are to be respected as professionals",
+    "FakeAnswers": [
+      "Software engineers only need technical skills to be respected",
+      "Software engineers can behave unethically and still be respected",
+      "The behavior of software engineers has no impact on their professional respect"
+    ]
+  },
+  {
+    "Question": "What are some issues of professional responsibility in software engineering?",
+    "CorrectAnswer": "Confidentiality, Competence, Intellectual property rights, Computer misuse",
+    "FakeAnswers": [
+      "Data privacy, Cybersecurity, Network management",
+      "Hardware maintenance, User training, System integration",
+      "Project planning, Quality assurance, Risk management"
+    ]
+  },
+  {
+    "Question": "What is the issue with legacy software systems?",
+    "CorrectAnswer": "Systems were developed decades ago and have been continually modified to meet changes in business requirements and computing platforms. The proliferation of such systems is causing headaches for large organizations who find them costly to maintain and risky to evolve.",
+    "FakeAnswers": [
+      "Legacy software systems are secure and easy to maintain.",
+      "Legacy software systems are rarely updated and cause no issues.",
+      "Legacy software systems are not a concern for organizations."
+    ]
+  },
+  {
+    "Question": "What is a software process model?",
+    "CorrectAnswer": "A software process model is an abstract representation of a process. It presents a description of a process from some particular perspective.",
+    "FakeAnswers": [
+      "A software process model is a programming language.",
+      "A software process model is a hardware component.",
+      "A software process model is a database management system."
+    ]
+  },
+  {
+    "Question": "What are the main activities involved in a software process?",
+    "CorrectAnswer": "Software specification, Software development, Software validation, Software evolution",
+    "FakeAnswers": [
+      "Hardware installation, Network configuration, User training",
+      "Data entry, Report generation, Database maintenance",
+      "Project planning, Resource allocation, Risk assessment"
+    ]
+  },
+  {
+    "Question": "What is the Software Development Life Cycle (SDLC)?",
+    "CorrectAnswer": "It is a continuous process, which starts from the moment when it's made a decision to launch the project, and it ends at the moment of its full remove from the exploitation.",
+    "FakeAnswers": [
+      "It is a one-time process for developing software.",
+      "It is a process that starts after the software is developed.",
+      "It is a process that ends when the software is deployed."
+    ]
+  },
+  {
+    "Question": "What are the most popular and important SDLC models?",
+    "CorrectAnswer": "Waterfall Model, Iterative Model, Spiral Model, V-shaped Model, Agile Model",
+    "FakeAnswers": [
+      "Incremental Model, Prototyping Model, Rapid Application Development (RAD) Model",
+      "Big Bang Model, Scrum Model, Kanban Model",
+      "Lean Model, DevOps Model, Continuous Integration Model"
+    ]
+  },
+  {
+    "Question": "What are the basic stages of the Software Development Life Cycle?",
+    "CorrectAnswer": "Stage 1. Planning and requirement analysis, Stage 2. Designing project architecture, Stage 3. Development and programming, Stage 4. Testing, Stage 5. Deployment",
+    "FakeAnswers": [
+      "Stage 1. Coding, Stage 2. Integration, Stage 3. Maintenance, Stage 4. Retirement",
+      "Stage 1. Feasibility Study, Stage 2. System Analysis, Stage 3. System Design, Stage 4. Implementation",
+      "Stage 1. Requirements Gathering, Stage 2. Design, Stage 3. Development, Stage 4. Quality Assurance, Stage 5. Maintenance"
+    ]
+  },
+  {
+    "Question": "What are the stages involved in the development and programming stage of the SDLC?",
+    "CorrectAnswer": "Algorithm development, Source code writing, Compilation, Testing and debugging",
+    "FakeAnswers": [
+      "Design, Coding, Integration, Deployment",
+      "Requirements Analysis, System Design, Implementation, Maintenance",
+      "Planning, Scheduling, Coding, Testing"
+    ]
+  },
+  {
+    "Question": "What is the Waterfall Model in the context of SDLC?",
+    "CorrectAnswer": "Waterfall Model – is a cascade SDLC model, in which development process looks like the flow, moving step by step through the phases of analysis, projecting, realization, testing, implementation, and support.",
+    "FakeAnswers": [
+      "The Waterfall Model is an iterative SDLC model.",
+      "The Waterfall Model is a spiral SDLC model.",
+      "The Waterfall Model is an agile SDLC model."
+    ]
+  },
+  {
+    "Question": "What are the advantages of the Waterfall Model?",
+    "CorrectAnswer": "Simple to use and understand, Management simplicity thanks to its rigidity: every phase has a defined result and process review, Development stages go one by one, Perfect for the small or mid-sized projects where requirements are clear and not equivocal, Easy to determine the key points in the development cycle, Easy to classify and prioritize tasks",
+    "FakeAnswers": [
+      "Flexible and adaptable to changing requirements, Promotes continuous feedback and collaboration, Suitable for long-term and complex projects",
+      "Encourages early delivery of working software, Supports iterative and incremental development, Allows for frequent customer feedback",
+      "Emphasizes upfront planning and design, Encourages documentation and formal reviews, Suitable for safety-critical systems"
+    ]
+  },
+  {
+    "Question": "What are the disadvantages of the Waterfall Model?",
+    "CorrectAnswer": "The software is ready only after the last stage is over, High risks and uncertainty, Not the best choice for complex and object-oriented projects, Inappropriate for the long-term projects, The progress of the stage is hard to measure while it is still in the development, Integration is done at the very end, which does not give the option of identifying the problem in advance",
+    "FakeAnswers": [
+      "Easy to manage and control, Promotes clear documentation and planning, Suitable for projects with well-defined requirements",
+      "Encourages early and continuous delivery of software, Supports rapid adaptation to changing requirements, Promotes collaboration and teamwork",
+      "Suitable for projects with strict deadlines, Encourages rigorous testing and quality assurance, Suitable for safety-critical systems"
+    ]
+  },
+  {
+    "Question": "What is the Iterative Model in the context of SDLC?",
+    "CorrectAnswer": "Iterative Model – is SDLC model does not need the full list of requirements before the project starts. The development process may start with the requirements to the functional part, which can be expanded later. The process is repetitive, allowing to make new versions of the product for every cycle.",
+    "FakeAnswers": [
+      "The Iterative Model is a sequential SDLC model without any iterations.",
+      "The Iterative Model requires all requirements to be defined upfront before starting the project.",
+      "The Iterative Model follows a strict linear approach without any room for changes."
+    ]
+  },
+  {
+    "Question": "What is the key characteristic of the Iterative Model?",
+    "CorrectAnswer": "The development process may start with the requirements to the functional part, which can be expanded later.",
+    "FakeAnswers": [
+      "The development process must start with all requirements defined upfront.",
+      "The development process follows a strict linear approach without any room for changes.",
+      "The development process does not allow for any iterations or cycles."
+    ]
+  },
+  {
+    "Question": "What is the advantage of the Iterative Model?",
+    "CorrectAnswer": "The process is repetitive, allowing to make new versions of the product for every cycle.",
+    "FakeAnswers": [
+      "The process follows a strict linear approach without any room for changes.",
+      "The process does not allow for any iterations or cycles.",
+      "The process requires all requirements to be defined upfront before starting the project."
+    ]
+  },
+  {
+    "Question": "What is the Spiral Model in the context of SDLC?",
+    "CorrectAnswer": "Spiral Model – is SDLC model, which combines architecture and prototyping by stages. It is a combination of the Iterative and Waterfall SDLC models with the significant accent on the risk analysis.",
+    "FakeAnswers": [
+      "The Spiral Model is a sequential SDLC model without any iterations.",
+      "The Spiral Model does not involve risk analysis at any stage.",
+      "The Spiral Model is completely unrelated to the Iterative and Waterfall models."
+    ]
+  },
+  {
+    "Question": "What does the Spiral Model combine?",
+    "CorrectAnswer": "The Spiral Model combines architecture and prototyping by stages.",
+    "FakeAnswers": [
+      "The Spiral Model combines only the Waterfall and Iterative models.",
+      "The Spiral Model does not combine any other models or approaches.",
+      "The Spiral Model combines only risk analysis and prototyping."
+    ]
+  },
+  {
+    "Question": "What is the significant aspect of the Spiral Model?",
+    "CorrectAnswer": "The Spiral Model has a significant accent on the risk analysis.",
+    "FakeAnswers": [
+      "The Spiral Model does not involve risk analysis at any stage.",
+      "The Spiral Model focuses more on architecture and prototyping than risk analysis.",
+      "The Spiral Model has no significant accent on any particular aspect."
+    ]
+  },
+  {
+    "Question": "What is the main issue associated with the Spiral Model?",
+    "CorrectAnswer": "The main issue of the spiral model – is defining the right moment to make a step into the next stage.",
+    "FakeAnswers": [
+      "The main issue of the Spiral Model is its inability to handle complex projects.",
+      "The main issue of the Spiral Model is its lack of flexibility.",
+      "The main issue of the Spiral Model is its high cost and resource requirements."
+    ]
+  },
+  {
+    "Question": "What is the V-shaped Model in the context of SDLC?",
+    "CorrectAnswer": "V-shaped Model - is SDLC model, an expansion of classic waterfall model and it's based on associated test stage for the every development stage. This is a very strict model and the next stage is started only after the previous phase. This is also called \"Validation and verification\" model.",
+    "FakeAnswers": [
+      "The V-shaped Model is an agile SDLC model.",
+      "The V-shaped Model does not involve any testing or verification stages.",
+      "The V-shaped Model is completely unrelated to the Waterfall model."
+    ]
+  },
+  {
+    "Question": "What is the V-shaped Model an expansion of?",
+    "CorrectAnswer": "The V-shaped Model is an expansion of the classic waterfall model.",
+    "FakeAnswers": [
+      "The V-shaped Model is an expansion of the Iterative model.",
+      "The V-shaped Model is an expansion of the Spiral model.",
+      "The V-shaped Model is not an expansion of any other model."
+    ]
+  },
+  {
+    "Question": "What is the basis of the V-shaped Model?",
+    "CorrectAnswer": "The V-shaped Model is based on associated test stage for every development stage.",
+    "FakeAnswers": [
+      "The V-shaped Model is based only on the development stages without any testing.",
+      "The V-shaped Model is based on prototyping and risk analysis.",
+      "The V-shaped Model is based on iterative development cycles."
+    ]
+  },
+  {
+    "Question": "What is the nature of the V-shaped Model?",
+    "CorrectAnswer": "The V-shaped Model is a very strict model, and the next stage is started only after the previous phase.",
+    "FakeAnswers": [
+      "The V-shaped Model is a flexible model that allows stages to be skipped or combined.",
+      "The V-shaped Model does not follow a strict sequential approach.",
+      "The V-shaped Model does not have any strict rules regarding the order of stages."
+    ]
+  },
+  {
+    "Question": "What is the Agile Model in the context of SDLC?",
+    "CorrectAnswer": "Agile Model - after every development iteration, the customer is able to see the result and understand if he is satisfied with it or he is not. This is one of the advantages of the agile software development life cycle model. One of its disadvantages is that with the absence of defined requirements it is difficult to estimate the resources and development cost. Extreme programming is one of the practical use of the agile model. The basis of such model consists of short weekly meetings – Sprints which are the part of the Scrum approach.",
+    "FakeAnswers": [
+      "The Agile Model follows a strict sequential approach without any iterations.",
+      "The Agile Model requires all requirements to be defined upfront and does not allow for changes.",
+      "The Agile Model does not involve customer feedback or collaboration."
+    ]
+  },
+  {
+    "Question": "What is one of the advantages of the Agile Model?",
+    "CorrectAnswer": "After every development iteration, the customer is able to see the result and understand if he is satisfied with it or he is not.",
+    "FakeAnswers": [
+      "The Agile Model does not involve customer feedback or collaboration.",
+      "The Agile Model requires all requirements to be defined upfront and does not allow for changes.",
+      "The Agile Model follows a strict sequential approach without any iterations."
+    ]
+  },
+  {
+    "Question": "What is one of the disadvantages of the Agile Model?",
+    "CorrectAnswer": "With the absence of defined requirements, it is difficult to estimate the resources and development cost.",
+    "FakeAnswers": [
+      "The Agile Model promotes upfront planning and estimation of resources and costs.",
+      "The Agile Model requires all requirements to be defined upfront before starting development.",
+      "The Agile Model does not involve any estimation or planning activities."
+    ]
+  },
+  {
+    "Question": "What is one of the practical uses of the Agile Model?",
+    "CorrectAnswer": "Extreme programming is one of the practical uses of the agile model.",
+    "FakeAnswers": [
+      "The Waterfall model is one of the practical uses of the Agile Model.",
+      "The Spiral model is one of the practical uses of the Agile Model.",
+      "The V-shaped model is one of the practical uses of the Agile Model."
+    ]
+  },
+  {
+    "Question": "What is the basis of the Agile Model?",
+    "CorrectAnswer": "The basis of such model consists of short weekly meetings – Sprints which are the part of the Scrum approach.",
+    "FakeAnswers": [
+      "The basis of the Agile Model consists of strict sequential development stages.",
+      "The basis of the Agile Model consists of upfront planning and requirements gathering.",
+      "The basis of the Agile Model does not involve any meetings or collaboration."
+    ]
+  },
+  {
+    "Question": "What is the Software Engineering Institute (SEI) Capability Maturity Model (CMM)?",
+    "CorrectAnswer": "The Software Engineering Institute (SEI) Capability Maturity Model (CMM) specifies an increasing series of levels of a software development organization. The higher the level, the better the software development process, hence reaching each level is an expensive and time-consuming process.",
+    "FakeAnswers": [
+      "The SEI CMM is a software development life cycle model.",
+      "The SEI CMM is a programming language or framework.",
+      "The SEI CMM is a set of best practices for project management."
+    ]
+  },
+  {
+    "Question": "What does the SEI CMM specify?",
+    "CorrectAnswer": "The SEI CMM specifies an increasing series of levels of a software development organization.",
+    "FakeAnswers": [
+      "The SEI CMM specifies a set of programming languages and frameworks.",
+      "The SEI CMM specifies a software development life cycle model.",
+      "The SEI CMM specifies a set of project management best practices."
+    ]
+  },
+  {
+    "Question": "What is the significance of higher levels in the SEI CMM?",
+    "CorrectAnswer": "The higher the level, the better the software development process.",
+    "FakeAnswers": [
+      "The higher the level, the more complex the software development process.",
+      "The higher the level, the more resources and costs are required.",
+      "The level does not have any significance in the software development process."
+    ]
+  },
+  {
+    "Question": "What is the challenge associated with reaching higher levels in the SEI CMM?",
+    "CorrectAnswer": "Reaching each level is an expensive and time-consuming process.",
+    "FakeAnswers": [
+      "Reaching each level is a simple and straightforward process.",
+      "Reaching each level does not require significant resources or time.",
+      "Reaching each level is a one-time effort without any recurring costs or time requirements."
+    ]
+  },
+  {
+    "Question": "What is Software Process Improvement (SPI) methodology?",
+    "CorrectAnswer": "Software Process Improvement (SPI) methodology is defined as a sequence of tasks, tools, and techniques to plan and implement improvement activities to achieve specific goals such as increasing development speed, achieving higher product quality or reducing costs.",
+    "FakeAnswers": [
+      "SPI methodology is a software development life cycle model.",
+      "SPI methodology is a programming language or framework.",
+      "SPI methodology is a set of project management best practices."
+    ]
+  },
+  {
+    "Question": "How can Software Process Improvement (SPI) be considered?",
+    "CorrectAnswer": "SPI can be considered as process re-engineering or change management project to detect the software development lifecycle inefficiencies and resolve them to have a better process.",
+    "FakeAnswers": [
+      "SPI can be considered as a software development life cycle model.",
+      "SPI can be considered as a programming language or framework.",
+      "SPI can be considered as a set of project management best practices."
+    ]
+  },
+  {
+    "Question": "What is the purpose of aligning SPI with organizational goals and change drivers?",
+    "CorrectAnswer": "This process should be mapped and aligned with organizational goals and change drivers to have real value to the organization.",
+    "FakeAnswers": [
+      "Aligning SPI with organizational goals and change drivers is not necessary.",
+      "Aligning SPI with organizational goals and change drivers is only for large organizations.",
+      "Aligning SPI with organizational goals and change drivers is a one-time effort."
+    ]
+  },
+  {
+    "Question": "What are the purposes of software measurement in software engineering?",
+    "CorrectAnswer": "Measurement helps in estimation, quality control, productivity assessment and project control throughout a software project. Also, measurement is used by software engineers to gain insight into the design and development of the work products. In addition, measurement assists in strategic decision-making as a project proceeds.",
+    "FakeAnswers": [
+      "Software measurement is only used for project estimation and control.",
+      "Software measurement is only used for quality control purposes.",
+      "Software measurement is only used for productivity assessment."
+    ]
+  },
+  {
+    "Question": "What are the two categories of software measurements?",
+    "CorrectAnswer": "Software measurements are of two categories: Direct measures and Indirect measures",
+    "FakeAnswers": [
+      "Software measurements are of two categories: Qualitative measures and Quantitative measures",
+      "Software measurements are of two categories: Process measures and Product measures",
+      "Software measurements are of two categories: Internal measures and External measures"
+    ]
+  },
+  {
+    "Question": "What are the five activities that characterize the measurement process?",
+    "CorrectAnswer": "Measurement process is characterized by a set of five activities: Formulation, Collection, Analysis, Interpretation, Feedback",
+    "FakeAnswers": [
+      "Measurement process is characterized by four activities: Planning, Execution, Monitoring, and Control",
+      "Measurement process is characterized by three activities: Design, Implementation, and Testing",
+      "Measurement process is characterized by six activities: Initiation, Planning, Execution, Monitoring, Control, and Closure"
+    ]
+  },
+  {
+    "Question": "What is software process assessment?",
+    "CorrectAnswer": "Software process assessment is a disciplined examination of the software processes used by an organization, based on a process model. The assessment includes the identification and characterization of current practices, identifying areas of strengths and weaknesses, and the ability of current practices to control or avoid significant causes of poor (software) quality, cost, and schedule.",
+    "FakeAnswers": [
+      "Software process assessment is a software development life cycle model.",
+      "Software process assessment is a programming language or framework.",
+      "Software process assessment is a set of project management best practices."
+    ]
+  },
+  {
+    "Question": "What are the three types of software assessment (or audit)?",
+    "CorrectAnswer": "Software assessment (or audit) can be of three types: self-assessment (first-party assessment), second-party assessment, third-party assessment",
+    "FakeAnswers": [
+      "Software assessment can be of two types: internal assessment and external assessment",
+      "Software assessment can be of four types: self-assessment, peer assessment, management assessment, and external assessment",
+      "Software assessment is always done by an external third-party organization"
+    ]
+  },
+  {
+    "Question": "What is the scope of a software process maturity assessment?",
+    "CorrectAnswer": "The scope of a software process maturity assessment can cover all the processes in the organization, a selected subset of the software processes, or a specific project.",
+    "FakeAnswers": [
+      "The scope of a software process maturity assessment is always limited to a specific project.",
+      "The scope of a software process maturity assessment is always limited to all the processes in the organization.",
+      "The scope of a software process maturity assessment is always limited to a selected subset of the software processes."
+    ]
+  },
+  {
+    "Question": "What are the two reasons for different results in successive applications of the same process assessment method?",
+    "CorrectAnswer": "There are two reasons for the different results: 1) The organization being investigated must be determined. For a large company, several definitions of organization are possible and therefore the actual scope of appraisal may differ in successive assessments. 2) Even in what appears to be the same organization, the sample of projects selected to represent the organization may affect the scope and outcome.",
+    "FakeAnswers": [
+      "The only reason for different results is the organization being investigated.",
+      "The only reason for different results is the sample of projects selected to represent the organization.",
+      "There are no valid reasons for different results in successive applications of the same process assessment method."
+    ]
+  },
+  {
+    "Question": "What are the six steps in the CMM-based software process assessment cycle?",
+    "CorrectAnswer": "According to Paulk and colleagues (1995), the CMM-based assessment approach uses a six-step cycle: 1) Select a team, 2) The representatives of the site to be appraised complete the standard process maturity questionnaire, 3) The assessment team performs an analysis of the questionnaire responses and identifies the areas that warrant further exploration according to the CMM key process areas, 4) The assessment team conducts a site visit to gain an understanding of the software process followed by the site, 5) The assessment team produces a list of findings that identifies the strengths and weakness of the organization's software process, 6) The assessment team prepares a Key Process Area (KPA) profile analysis and presents the results to the appropriate audience.",
+    "FakeAnswers": [
+      "The CMM-based assessment approach uses a five-step cycle.",
+      "The CMM-based assessment approach uses a seven-step cycle.",
+      "The CMM-based assessment approach does not follow a specific cycle or steps."
+    ]
+  },
+  {
+    "Question": "Which of the following is NOT a subsection in the software development section?",
+    "CorrectAnswer": "Agile Methods",
+    "FakeAnswers": [ "Heuristic Methods", "Formal Methods", "Prototyping Methods" ]
+  },
+  {
+    "Question": "Who is responsible for developing a project plan, managing deliverables according to the plan, and providing regular updates to upper management?",
+    "CorrectAnswer": "Project Manager",
+    "FakeAnswers": [ "Functional Manager", "Operational Manager", "Analyst" ]
+  },
+  {
+    "Question": "What role involves assigning projects, discussing performance, and providing opportunities for growth?",
+    "CorrectAnswer": "Functional Manager",
+    "FakeAnswers": [ "Project Manager", "Operational Manager", "Change Manager" ]
+  },
+  {
+    "Question": "Which role focuses on coordination, supervision, financial matters, HR, and process improvement?",
+    "CorrectAnswer": "Operational Manager",
+    "FakeAnswers": [ "Project Manager", "Functional Manager", "Analyst" ]
+  },
+  {
+    "Question": "Whose responsibility is it to ensure that business client requirements are captured and documented correctly before a solution is developed and implemented?",
+    "CorrectAnswer": "Analyst",
+    "FakeAnswers": [ "Project Manager", "Change Manager", "Database Administrator" ]
+  },
+  {
+    "Question": "Who accepts changes to project requirements, budget, and timelines?",
+    "CorrectAnswer": "Change Manager",
+    "FakeAnswers": [ "Project Manager", "Functional Manager", "Operational Manager" ]
+  },
+  {
+    "Question": "Who models, designs, and creates the databases and tables used by the software solution?",
+    "CorrectAnswer": "Database Administrator",
+    "FakeAnswers": [ "Developer", "Tester", "Analyst" ]
+  },
+  {
+    "Question": "Who is responsible for the actual building of the solution?",
+    "CorrectAnswer": "Developer",
+    "FakeAnswers": [ "Tester", "Database Administrator", "Analyst" ]
+  },
+  {
+    "Question": "Whose role is to ensure that the solution meets business requirements and is free of errors and defects?",
+    "CorrectAnswer": "Tester",
+    "FakeAnswers": [ "Developer", "Database Administrator", "Analyst" ]
+  },
+  {
+    "Question": "Who are the beneficiaries of a project or service?",
+    "CorrectAnswer": "Client",
+    "FakeAnswers": [ "User", "Project Manager", "Analyst" ]
+  },
+  {
+    "Question": "Who uses the deliverables of the project?",
+    "CorrectAnswer": "User",
+    "FakeAnswers": [ "Client", "Tester", "Developer" ]
+  },
+  {
+    "Question": "What is the name of the tool that represents project schedules with respect to time periods using a horizontal bar chart?",
+    "CorrectAnswer": "Gantt Chart",
+    "FakeAnswers": [ "PERT Chart", "Resource Histogram", "Critical Path Analysis" ]
+  },
+  {
+    "Question": "Which tool depicts a project as a network diagram and is capable of graphically representing main events of the project in both parallel and consecutive ways?",
+    "CorrectAnswer": "PERT Chart",
+    "FakeAnswers": [ "Gantt Chart", "CPM", "Resource Histogram" ]
+  },
+  {
+    "Question": "What network analysis technique is used in planning, scheduling, and controlling complex but routine activities?",
+    "CorrectAnswer": "CPM (Critical Path Method)",
+    "FakeAnswers": [ "Gantt Chart", "PERT Chart", "Resource Histogram" ]
+  },
+  {
+    "Question": "What effective graphical tool is used for staff planning and coordination, representing the number of resources required over time for a project event or phase?",
+    "CorrectAnswer": "Resource Histogram",
+    "FakeAnswers": [ "Gantt Chart", "PERT Chart", "Critical Path Analysis" ]
+  },
+  {
+    "Question": "What is the term used to describe a collection of work activities, actions, and tasks performed when creating a work product?",
+    "CorrectAnswer": "Process",
+    "FakeAnswers": [ "Framework", "Model", "Task Set" ]
+  },
+  {
+    "Question": "Within a software engineering framework activity, what populates each activity?",
+    "CorrectAnswer": "A set of software engineering actions",
+    "FakeAnswers": [ "Work tasks", "Quality assurance points", "Milestones" ]
+  },
+  {
+    "Question": "What does process flow describe in the context of software development?",
+    "CorrectAnswer": "How framework activities, actions, and tasks are organized with respect to sequence and time",
+    "FakeAnswers": [ "The relationship between work products and tasks", "The hierarchy of process patterns", "The environment in which problems are encountered" ]
+  },
+  {
+    "Question": "What do process patterns provide a mechanism for addressing?",
+    "CorrectAnswer": "Problems associated with any software process",
+    "FakeAnswers": [ "Hierarchical process descriptions", "High-level abstractions", "Phase patterns" ]
+  },
+  {
+    "Question": "What is the term used to describe a collection of work activities, actions, and tasks performed when creating a work product?",
+    "CorrectAnswer": "Process",
+    "FakeAnswers": [ "Framework", "Model", "Task Set" ]
+  },
+  {
+    "Question": "Within a software engineering framework activity, what populates each activity?",
+    "CorrectAnswer": "A set of software engineering actions",
+    "FakeAnswers": [ "Work tasks", "Quality assurance points", "Milestones" ]
+  },
+  {
+    "Question": "What does process flow describe in the context of software development?",
+    "CorrectAnswer": "How framework activities, actions, and tasks are organized with respect to sequence and time",
+    "FakeAnswers": [ "The relationship between work products and tasks", "The hierarchy of process patterns", "The environment in which problems are encountered" ]
+  },
+  {
+    "Question": "What do process patterns provide a mechanism for addressing?",
+    "CorrectAnswer": "Problems associated with any software process",
+    "FakeAnswers": [ "Hierarchical process descriptions", "High-level abstractions", "Phase patterns" ]
+  },
+  {
+    "Question": "What is the name of the standard that defines a set of requirements for software process assessment?",
+    "CorrectAnswer": "SPICE (ISO/IEC15504)",
+    "FakeAnswers": [ "Standard CMMI Assessment Method for Process Improvement (SCAMPI)", "CMM-Based Appraisal for Internal Process Improvement (CBA IPI)", "ISO 9001:2000 for Software" ]
+  },
+  {
+    "Question": "Which approach provides a diagnostic technique for assessing the relative maturity of a software organization?",
+    "CorrectAnswer": "CMM-Based Appraisal for Internal Process Improvement (CBA IPI)",
+    "FakeAnswers": [ "Standard CMMI Assessment Method for Process Improvement (SCAMPI)", "SPICE (ISO/IEC15504)", "ISO 9001:2000 for Software" ]
+  },
+  {
+    "Question": "What generic standard applies to any organization that wants to improve the overall quality of the products, systems, or services it provides?",
+    "CorrectAnswer": "ISO 9001:2000 for Software",
+    "FakeAnswers": [ "Standard CMMI Assessment Method for Process Improvement (SCAMPI)", "CMM-Based Appraisal for Internal Process Improvement (CBA IPI)", "SPICE (ISO/IEC15504)" ]
+  },
+  {
+    "Question": "These provide a list of all process patterns that are directly related to this one. This may be represented as a hierarchy or in some other diagrammatic form.",
+    "CorrectAnswer": "Related Patterns",
+    "FakeAnswers": [ "Process Flow", "Process Patterns", "Process Framework" ]
+  },
+  {
+    "Question": "These describes the conditions that will result once the pattern has been successfully implemented. Upon completion of the pattern:",
+    "CorrectAnswer": "Resulting Context",
+    "FakeAnswers": [ "Related Patterns", "Process Flow", "Process Patterns" ]
+  },
+  {
+    "Question": "These describes the conditions under which the pattern applies prior to the initiation of the pattern"
+    "CorrectAnswer": "Initial Context",
+    "FakeAnswers": [ "Related Patterns", "Prepared Context", "Process Patterns" ]
+  }
+
+]
