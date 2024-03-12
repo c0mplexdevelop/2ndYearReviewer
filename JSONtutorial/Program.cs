@@ -37,6 +37,8 @@ while (turns < maxScore)
             Console.WriteLine($"Wrong! The correct answer is: {questionClass.CorrectAnswer}");
         }
 
+        score++;
+
     }
     else
     {
