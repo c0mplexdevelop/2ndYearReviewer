@@ -30,14 +30,13 @@ while (turns < maxScore)
         string userAnswer = Console.ReadLine() ?? "";
         if (userAnswer.ToLower() == questionClass.CorrectAnswer.ToLower())
         {
+            score++;
             Console.WriteLine("Correct!");
         }
         else
         {
             Console.WriteLine($"Wrong! The correct answer is: {questionClass.CorrectAnswer}");
         }
-
-        score++;
 
     }
     else
