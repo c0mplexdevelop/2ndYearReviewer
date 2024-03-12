@@ -285,10 +285,141 @@
     "Question": "This metaphor involves the sense of mastery, vulnerability, and well-being",
     "CorrectAnswer": "Control",
     "FakeAnswers": []
-  }
-  
-
-
-  
-
+  },
+    {
+        "Question" : "A computer program that handles the output to the display and the input from the person using the program.",
+        "CorrectAnswer" : "User Interface",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This is recognized as one of the most important elements of a software project. It had been estimated that 48% of work on a project goes into the design and implementation of the user interface depends, among other things, on the designer's creativity.",
+        "CorrectAnswer" : "User Interface",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "How many commonly recognized UI are in use today? (numeric)",
+        "CorrectAnswer" : "3",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This UI separates the logical threads of computing from the presentation of those threads to the user, through visual content on the display device. This is commonly done through a window system that is controlled by an operating system's window manager.",
+        "CorrectAnswer" : "Graphical User Interface",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This UI use speech technology to provide people with access to information and to allow them to perform transactions.",
+        "CorrectAnswer" : "Voice User Interface",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This UI's development was driven by customer dissatisfaction with touchtone telephony interactions, the need for cheaper and more effective systems to meet customer needs, and the advancement of speech technology to the stage where it was robust and reliable enough to deliver effective interaction.",
+        "CorrectAnswer" : "Voice User Interface",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This UI is what a person interacts with when using a spoken language application. Auditory interfaces interact with the user purely through sound. Speech is input by the user, and speech or nonverbal audio is output by the system",
+        "CorrectAnswer" : "Voice User Interface",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "These UI provide opportunity to use non-verbal audio such as background music and earcons to create an auditory environment for the user, and thus creating a unique ―sound and feel‖ for a business or application",
+        "CorrectAnswer" : "Voice User Interface",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This involves collecting a small amount of a persons voice tocreate a voice template, which is used to enroll a person into asystem and then compare future conversation.",
+        "CorrectAnswer" : "Speaker Verification",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This synthesizes text into speech. The technology has improved significantly in recent times, and although it does not yet duplicate the quality of recorded human speech, it is still a good option for creating messages from text that cannot be predicted, such as translating web pages for blind users",
+        "CorrectAnswer" : "Text-to-Speech",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "One of the components of Voice User Interfaces that are recorded or synthesized speech played to the user during the interaction.",
+        "CorrectAnswer" : "Prompt",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "One of the comonents of Voice User Interfaces are the possible responses users can make in relation to each prompt. The system cannot understand anything outside of this range of possibilities.",
+        "CorrectAnswer" : "Grammar",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "One of the components of Voice User Interface that determines the actions the system can take in user's response to a prompt.",
+        "CorrectAnswer" : "Dialog Logic",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This UI attempt to address the problems associated with purely auditory and purely visual interfaces by providing a more immersive environment for human-computer interaction.",
+        "CorrectAnswer" : "Multi-model User Interface",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This UI is one that relies on the use of multiple human communication channels to manipulate the computer. These communication channels translate to a computer's input and output devices.",
+        "CorrectAnswer" : "Multi-model User Interface",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This UI requires users to interact with the device with their fingers. It has become a commonly used option due to the popularity of portable devices. You come across touchscreen GUI when you look at almost anything on your phone or tablet.",
+        "CorrectAnswer" : "Touchscreen GUI",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This UI employs a series of screens, or “menus”. When a user makes a selection by tapping/clicking on the list format or graphics, it takes them to the next menu screen until they complete the desired outcome.",
+        "CorrectAnswer" : "Menu-driven User Interface",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This UI is a text-based user interface for interacting with PC on a low abstraction level. Generally, this type of menu is not intended for the average user. It is mostly used when working with cloud services or carrying out system administrators responsibilities.",
+        "CorrectAnswer" : "Command Line Interface",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This principle says that the user should be aware of all the functions and functionalities that is available.",
+        "CorrectAnswer" :"Exposure",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "One of the main objectives of this principle is to create the UI so as to make the work easier",
+        "CorrectAnswer" : "User Profiling",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This principle says that an interface should be coherent, logical, and easily followed",
+        "CorrectAnswer" : "Coherence",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This principle says each change in the behavior of the program should be accompanied by a corresponding change in the appearance of the interface. One of the big criticisms of modes in interfaces is when a program that many of the class is bad example programs have modes that are visually indistinguishable from one another.",
+        "CorrectAnswer" : "State Visualization",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This principle states that the interface should developconfidence amongst the user by providing them a feeling of safety.The User Interface should ensure that the novice user should not feelhim at risk while accessing the program",
+        "CorrectAnswer" : "Safety",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This principle states that the user's activity should be limited to a well-defined context unless significant reason is there to support his freedom to access more.Each user action takes place within a given context the current document, the current selection, the current dialog box.",
+        "CorrectAnswer" : "Context",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This principle says that in order to achieve a task or to get a work done, the accessing methods should not only be abstract but concrete too. Once a user has become experienced with an application, she/he will start to build a mental model of that application. She/he will be able to predict with high accuracy what the results of any particular user gesture will be in any given context",
+        "CorrectAnswer" : "Shortcut",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This principle states that the inevitable defects in the design of the user interface should be spotted. Generally, it is the fundamental defects in a user interface that the designer of the interface can spot. There are however various kinds of defects that are not easy to spot. The testing of user interface is actually the process of testing of the interface using actual end users.",
+        "CorrectAnswer" : "User Testing",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This principle states that some aspects of the User Interface enjoy more attention of the user than others. The user finds same attributes and aspects of the user interface more attractive as compared to others. The human mind is a highly non-linear and has a perfect coordination with the eyes. Thus our eyes are more observant towards animated areas rather than the static are in an application.",
+        "CorrectAnswer" : "Focus",
+        "FakeAnswers" : []
+    }
+    
 ]
