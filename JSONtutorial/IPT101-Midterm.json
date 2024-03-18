@@ -210,7 +210,7 @@
     "FakeAnswers" : []
   },
   {
-    "Question" : "The session state is the collective information obtained from various pages the user visited and worked with, i.e., the overall session state.",
+    "Question" : "The ... is the collective information obtained from various pages the user visited and worked with.",
     "CorrectAnswer" : "Session State",
     "FakeAnswers" : []
   },
