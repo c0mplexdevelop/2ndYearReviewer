@@ -1,0 +1,117 @@
+[
+    {
+        "Question" : "This is a collection of processess, which focus on putting users at the center of the product",
+        "CorrectAnswer" : "User Centered Design",
+        "FakeAnswers" : []
+    },
+    {
+        "Question": "This is an iterative design process in which designers and other stakeholders focus on the users and their needs in each phase of the design process. This calls for involving users throughout the design process",
+        "CorrectAnswer": "User Centered Design",
+        "FakeAnswers": []
+    }
+    {
+        "Question" : "Users should be able to see from the beginning what they can do with the product, what is it about, how they can use it.",
+        "CorrectAnswer" : "Visibility",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "Users should be able to find information easily and quickly.",
+        "CorrectAnswer" : "Accessibility",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "Text should be easy to read and understand.",
+        "CorrectAnswer" : "Legibility",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "Short sentences are preferred here.",
+        "CorrectAnswer" : "Language",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "A quest to find the best possible match between the user's mental model that they have in their mind, and the conceptual model that you're presenting to them with your product.",
+        "CorrectAnswer" : "Design",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This refers to a user's underlying expectations about how something should work. It is formed based on what they already do, prior experiences with similar products, or by assumptions they've made based on how it appears",
+        "CorrectAnswer" : "Mental Model",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This is constantly evolving and subject to change. It is influenced by new experiences with your product, other technologies, and day to day life.",
+        "CorrectAnswer" : "Mental Model",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This is created by the designer as a high-level plan for how the product will work and fit together.",
+        "CorrectAnswer" : "Conceptual Model",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This refers to the structure and grouping of Information within the product",
+        "CorrectAnswer" : "Information Architecture",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "These are the guiding concepts or rules for the types of content appearing on each page",
+        "CorrectAnswer" : "Content Strategy",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This refers to creating consistent, continuous, or complementary experiences?",
+        "CorrectAnswer" : "Design Language",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This refers to the usage of well-known patterns and conventions and the interaction of the users to the system.",
+        "CorrectAnswer" : "Interaction models",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This refers to a rhetorical device in which a word or phrase literally denoting one kind of object or idea is used in place of another to suggest a likeness or analogy between them.'",
+        "CorrectAnswer" : "Metaphor",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This states that an interface should implemented behavior from system that the users are familiar with. It increases the understandability of even most complex application by introducing the element of being familiar with the environment user has been working.",
+        "CorrectAnswer" : "Principle of Metaphor",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This metaphor focuses on justice, equilibrium, and the interplay of elements",
+        "CorrectAnswer" : "Balance",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This metaphor includes changes in substance and circumstances",
+        "CorrectAnswer" : "Transformation",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This metaphor involves the meeting of past, presetn and future.",
+        "CorrectAnswer" : "Journey",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This metaphor involves encompassing inclusion, exclusion, states of being, and other boundaries",
+        "CorrectAnswer" : "Container",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This metaphor focuses on the need to relate to oneself and others",
+        "CorrectAnswer" : "Connection",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This metaphor involves acquisitions and their consequences" ,
+        "CorrectAnswer" : "Resource",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This metaphor involves the sense of mastery, vulnerability, and well-being",
+        "CorrectAnswer" : "Control",
+        "FakeAnswers" : []
+    }
+]
