@@ -1,0 +1,544 @@
+[
+  {
+    "Question" :  "A lower level framework for structing an application (sometimes called microarchitecture) is called?",
+    "CorrectAnswer" : "Design Pattern",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "This are reusable collaboration that solve sub problems within an application",
+    "CorrectAnswer" : "Design Pattern",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "These support object reuse at a high level of abstraction",
+    "CorrectAnswer" : "Design Pattern",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "This provide a 'framework' that guides and constraints object oriented implementation",
+    "CorrectAnswer" : "Design Pattern",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "The name of the pattern, and its classification (e.g. creational, structural, behavioral) is called?",
+    "CorrectAnswer" : "Pattern Name and Classification",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "A short statement about what the pattern does.",
+    "CorrectAnswer" : "Intent",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "",
+    "CorrectAnswer" : "",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "Alternative well known names for pattern.",
+    "CorrectAnswer" : "AKA",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "An illustrative design problem that shows how the pattern can solve the problem.",
+    "CorrectAnswer" : "Motivation",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "Situations where the pattern can be used.",
+    "CorrectAnswer" : "Applicability",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "A graphical UML representation showing the classes in the pattern.",
+    "CorrectAnswer" : "Structure",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "The classes that participate in the pattern and their responsibilities",
+    "CorrectAnswer" : "Participants",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "How the participates collaborate.",
+    "CorrectAnswer" : "Collaborations",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "Benefits and trade-offs of using the pattern.",
+    "CorrectAnswer" : "Consequences",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "Hints, pitfalls, and techniques that can be used to help implement the pattern.",
+    "CorrectAnswer" : "Implementation",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "Code illustrations of using the pattern.",
+    "CorrectAnswer" : "Sample code",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "Example of the pattern used in the real system.",
+    "CorrectAnswer" : "Known uses",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "Other patterns closely related to the current one.",
+    "CorrectAnswer" : "Related Patterns",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "What Design Pattern book describes 23 patterns?",
+    "CorrectAnswer" : "Gang of Four",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "How many design patterns are in the Gang of Four book (numeric)?",
+    "CorrectAnswer" : "23",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "These type of design patterns are used to help make a system independent of how its objects are created, composed and represented.",
+    "CorrectAnswer" : "Creational",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "These type of design patterns are concerned with how classes and objects are organized and composed to build larger structures.",
+    "CorrectAnswer" : "Structural",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "These type of design patterns are used to deal with assignment of responsibilities to objects and communication between objects.",
+    "CorrectAnswer" : "Behavioral",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "These are set of requirements that govern how one application can talk to another.",
+    "CorrectAnswer" : "Application Programming Interfaces",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "These are application to share data and take action on one another's behalf without requiring developers to share of all their software's code",
+    "CorrectAnswer" : "Application Programming Interfaces",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "Define exactly how a program will interact with the rest of the software world-saving time, resources.",
+    "CorrectAnswer" : "Application Programming Interfaces",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "This gives the ability to enforce security across all pages",
+    "CorrectAnswer" : "Page inheritance",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "You can even specify varying user access levels per page with only one line of code and one tweak of code.",
+    "CorrectAnswer" : "Page inheritance",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "This framework is used to create dynamic websites in the .NET environment",
+    "CorrectAnswer" : "ASP.NET",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "It is a server side technology that uses all .NET compatible language such as C#, VB.NET, J# etc. which are compiled to Microsoft Intermediate Language (MSIL).",
+    "CorrectAnswer" : "ASP.NET",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "It uses server control to develop rapid and interactive application in easy way.",
+    "CorrectAnswer" : "ASP.NET",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "The ASP from ASP.NET stands for?",
+    "CorrectAnswer" : "Active Server Pages",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "This web technology is enhanced and embedded by Microsoft in the .NET framework.",
+    "CorrectAnswer" : "",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "This is a web page where page content is dynamically generated for every request",
+    "CorrectAnswer" : "Dynamic Web Page",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "ASP.NET is ... while the predecessor ASP is interpreted.",
+    "CorrectAnswer" : "Compiled",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "This feature of ASP.NET allows the code of the web page to be contained in a separate file.",
+    "CorrectAnswer" : "Code-behind",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "TRUE OR FALSE: Code can be compiled from any Microsoft .NET-compatible language",
+    "CorrectAnswer" : "True",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "TRUE OR FALSE: ASP.NET pages run side-by-side with PHP",
+    "CorrectAnswer" : "False",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "TRUE OR FALSE: ASP.NET has automatic support for multiple browsers",
+    "CorrectAnswer" : "True",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "TRUE OR FALSE: ASP.NET namespaces provide rich functionality",
+    "CorrectAnswer" : "True",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "TRUE OR FALSE: ASP.NET has built-in support for web services",
+    "CorrectAnswer" : "True",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "TRUE OR FALSE: ASP.NET pages run side-by-side with ASP",
+    "CorrectAnswer" : "True",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "This is the state of the client, i.e., the content of various input fields in the web form.",
+    "CorrectAnswer" : "Page state",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "The session state is the collective information obtained from various pages the user visited and worked with, i.e., the overall session state.",
+    "CorrectAnswer" : "Session State",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "This model provides various building blocks of ASP.NET pages. Basically it is an object model.",
+    "CorrectAnswer" : "Component",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "ASP.NET processes pages to produce ... output",
+    "CorrectAnswer" : "Dynamic",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "In ASP.NET, the application and its pages are ... and processed",
+    "CorrectAnswer" : "instantiated",
+    "FakeAnswers" : []  
+  },
+  {
+    "Question" : "In ASP.NET, the application and its pages are instantiated and ...",
+    "CorrectAnswer" : "processed",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "ASP.NET ... the pages dynamically",
+    "CorrectAnswer" : "compiles",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "The ASP.NET life cycle could be divided into two groups: ... life cycle and ... life cycle (separate by comma space , ).",
+    "CorrectAnswer" : "Application, Page",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "User makes a ... for accessing application resource in the Applciation life cycle",
+    "CorrectAnswer" : "Request",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "Browser sends this request to the ... in the Applciation life cycle",
+    "CorrectAnswer" : "Web Server",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "The ... class is used to request information such as query string and form values from a client browser.",
+    "CorrectAnswer" : "HttpRequest",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "The first phase of the Page Life Cycle is called?",
+    "CorrectAnswer" : "Initialization",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "Instantiation of the ... on the page in the Second Phase of ASP.NET Page Life Cycle",
+    "CorrectAnswer" : "Controls",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "... and ... of the state in the Third Phase of ASP.NET Page Life Cycle (separate by comma space , ):",
+    "CorrectAnswer" : "Restoration, Maintenance",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "Execution of the ... codes in the Fourth Phase of ASP.NET Page Life Cycle",
+    "CorrectAnswer" : "Event Handler",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "The final phase of the Page Life Cycle is called?",
+    "CorrectAnswer" : "Page rendering",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "At each stage of the page life cycle, the page raises some ...",
+    "CorrectAnswer" : "Events",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "An ... is basically a function or subroutine, bound to the event, using declarative attributes such as Onclick or handle.",
+    "CorrectAnswer" : "Event Handler",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "This IDE provides a uniform way to combine the various features of this Architecture.",
+    "CorrectAnswer" : "Visual Studio",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "... occurs when a page generates an HTML form whose values are sent back (via HTTP Post or Get) to the same page",
+    "CorrectAnswer" : "Postback",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "This is a common technique for handling form data",
+    "CorrectAnswer" : "Postback",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "In ASP and other server-side technologies the state of the page is ... upon postback, unless you explicitly write code to maintain state.This is tedious, bulky and error-prone" ,
+    "CorrectAnswer" : "lost",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "By default, ASP.NET maintains the state of all server-side controls during a postback",
+    "CorrectAnswer" : "maintains",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "Can use method=... or method=... Server-side control objectsare automatically populated during postback (separate by comma space , )",
+    "CorrectAnswer" : "post, get",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "This feature allows you to separate UI design from the code.",
+    "CorrectAnswer" : "Code-behind",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "This feature of ASP.NET allows you to edit the code and hit the page.",
+    "CorrectAnswer" : "Automatic Compilation",
+    "FakeAnswers" : []
+  },
+  {
+    "Question" : "ASP.NET will automatically compile the page into an ...",
+    "CorrectAnswer" : "Assembly",
+    "FakeAnswers" : []
+  },
+
+  {
+    "Question": "Is a set of written symbols or a set of grammatical rules(syntax) that instructs the computer hardware to perform specific tasks.",
+    "CorrectAnswer": "Programming Language",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is the IBM Mathematical Formula Translating System.",
+    "CorrectAnswer": "Fortran",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "Middle name of your professor.",
+    "CorrectAnswer": "Morris",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "Programming language that is created by John McCarthy in 1958 as a practical mathematical notation for computer programs.",
+    "CorrectAnswer": "LISP",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "Programming language that is a family of imperative computer developed in the mid 1950s that greatly influenced many other programming languages",
+    "CorrectAnswer": "ALGOL",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "Acronym for Common Business-Oriented Language",
+    "CorrectAnswer": "COBOL",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "Programming language that was developed in the 1960s at the Norwegian Computing Center in Oslo, by Ole-Johan Dahl and Kristed Nygaard.",
+    "CorrectAnswer": "SIMULA",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "This language was named Programming Language 1. It was originally developed in 1964-1966",
+    "CorrectAnswer": "PL/I",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is a very influential imperative and procedural programming language, designed in 1968-1969 and published in 1970 by Niklaus Wirth.",
+    "CorrectAnswer": "PASCAL",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is a general-purpose programming language developed between 1969 and 1973 by Dennis Ritchie at the Bell Telephone Laboratories for use with the Unix operating system.",
+    "CorrectAnswer": "C",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "Out of nowhere question. What is the derivative of constant?",
+    "CorrectAnswer": "0",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is an object-oriented, dynamically typed, reflective programming language. It was designed and created in part for educational use at the Learning Reseaerch Group of Xerox PARC by Alan Kay, Dan Ingalls, Adele Goldberg etc.",
+    "CorrectAnswer": "Smalltalk",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It us a structured, statically typed, imperative, wide-spectrum, and object-oriented high-level programming language, extended mainly from Pascal.",
+    "CorrectAnswer": "Ada",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "A programming language that is developed by Bjarne Stroustrup starting in 1979 at Bell Laboratories as an enhancement to the C programming language following the object-oriented principles pioneered by Simuala.",
+    "CorrectAnswer": "C++",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It was created in 1987 by Larry Wall and is a general-purpose, high-level programming language.",
+    "CorrectAnswer": "PERL",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is named after the British comedy troupe 'Monty Python'. It was developed on 1991 by Guido Van Rossum",
+    "CorrectAnswer": "Python",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is developed in 1991 by Microsoft. It allows programmers to utilize drag and drop style of choosing and changing pre-selected chunks of code through graphical user interface.",
+    "CorrectAnswer": "Visual Basic",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is created in 1993 by Yukihiro Matsumoto. It is an interpreted high-level programming language.",
+    "CorrectAnswer": "RUBY",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is a programming language originally developed by James Gosling at Sun Microsystems",
+    "CorrectAnswer": "Java",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "Formerly known as 'Personal Home Page' which now stands for 'Hypertext Preprocessor' developed in 1995 by Rasmus Lerdorf",
+    "CorrectAnswer": "PHP",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It was created in 1995 by Brendan Eich. This language is primarily used for dynamic web development.",
+    "CorrectAnswer": "JAVASCRIPT",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It was developed in year 2000 at Microsoft with the hope of combining the computing ability of C++ with the simplicity of Visual Basic.",
+    "CorrectAnswer": "C#",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It was developed in 2003 by Martin Odersky. It combines mathematical functional programming and organized object oriented programming.",
+    "CorrectAnswer": "SCALA",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It was derived from Java. Developed in 2003 by James Strachan and Bob McWhirter. This language improves productivity because of its succinct and easy to learn.",
+    "CorrectAnswer": "GROOVY",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It was developed in 2009 in Google by Robert Griesemer, Rob Pike, and Ken Thompson to address issues that occur due to large software systems.",
+    "CorrectAnswer": "GO",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is developed in 2011 by JetBrains. It is used for making an android application.",
+    "CorrectAnswer": "KOTLIN",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It was developed in 2014 in Apple by Chris Lattner as a replacement for C, C++, and Objective-C, Swift was developed with the intention to be easier than the aforementioned languages and allow less room for error.",
+    "CorrectAnswer": "SWIFT",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is a fundamental style of computer programming.",
+    "CorrectAnswer": "Programming Paradigm",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "Type of paradigm that initially computers were hard-wired or soft-wired and then later programmed using binary code that represented control sequences fed to the computer CPU.",
+    "CorrectAnswer": "Low-Level Programming Paradigm",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "Type of paradigm that often though as a synonym for imperative programming.",
+    "CorrectAnswer": "Procedural Programming Paradigm",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "Type of paradigm that uses 'objects' - data structures encapsulating data fields and procedures together with their interactions to design applications and computer programs.",
+    "CorrectAnswer": "Object-Oriented Programming Paradigm",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "Type of paradigm in which programs express the logic of a computation without describing its control flow.",
+    "CorrectAnswer": "Declarative Programming Paradigm",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "Type of paradigm that treats computation as the evaluation of mathematical functions and avoids state changes and mutable data.",
+    "CorrectAnswer": "Functional Programming Paradigm",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "Type of paradigm that process by which a computer program can observe and modify its own structure and behavior at runtime.",
+    "CorrectAnswer": "Reflective Programming Paradigm",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "Type of paradigm use for scripting language. it was a language that allowed to control of software applications",
+    "CorrectAnswer": "Scripting Programming Paradigm",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "4 types of Scripting Languages:",
+    "CorrectAnswer": "Job control languages and shells, GUI scripting, Application-specific scripting languages, Web scripting languages(client and server side)",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "Type of paradigm that entails breakdown program logic into distinct parts",
+    "CorrectAnswer": "Aspect-Oriented Programming Paradigm",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "A program that converts another program from some source language",
+    "CorrectAnswer": "Compiler",
+    "FakeAnswers": []
+  },
+  {
+    "Question": "It is a program that pulls other programs together so that they can run.",
+    "CorrectAnswer": "Linker",
+    "FakeAnswers": []
+  }
+
+]
