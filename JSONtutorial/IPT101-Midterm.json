@@ -30,11 +30,6 @@
     "FakeAnswers" : []
   },
   {
-    "Question" : "",
-    "CorrectAnswer" : "",
-    "FakeAnswers" : []
-  },
-  {
     "Question" : "Alternative well known names for pattern.",
     "CorrectAnswer" : "AKA",
     "FakeAnswers" : []
@@ -320,7 +315,7 @@
     "FakeAnswers" : []
   },
   {
-    "Question" : "By default, ASP.NET maintains the state of all server-side controls during a postback",
+    "Question" : "By default, ASP.NET ... the state of all server-side controls during a postback",
     "CorrectAnswer" : "maintains",
     "FakeAnswers" : []
   },
