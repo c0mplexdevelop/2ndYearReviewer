@@ -4,7 +4,10 @@ using System.Linq;
 using System.Text.Json;
 using Reviewer;
 
-using FileStream jsonReader = File.OpenRead("HC101-Midterms.json");
+Console.WriteLine("Welcome to the Reviewer App!");
+Console.Write("Enter your desired subject code: ");
+string subject = Console.ReadLine()!.ToUpper();
+using FileStream jsonReader = File.OpenRead($"{subject}-Midterm.json");
 QuestionClass[] questionArray = JsonSerializer.Deserialize<QuestionClass[]>(jsonReader) ?? throw new Exception("Json is empty!") ;
 int score = 0;
 int maxScore = questionArray!.Length;
