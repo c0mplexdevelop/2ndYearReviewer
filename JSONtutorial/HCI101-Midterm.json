@@ -36,7 +36,7 @@
     },
     {
       "Question": "4 Specifications of Usability",
-      "CorrectAnswer": "Usability Attribute/Principle, Measuring Concept, Measuring Method, New Level/Worst Case/Planned Level/BestCase",
+      "CorrectAnswer": "Usability Attribute/Principle, Measuring Concept, Measuring Method, New Level/Worst Case/Planned Level/Best Case",
       "FakeAnswers": []
     },
     {
@@ -122,7 +122,7 @@
   },
   {
     "Question": "4 Specifications of Usability",
-    "CorrectAnswer": "Usability Attribute/Principle, Measuring Concept, Measuring Method, New Level/Worst Case/PlannedLevel/BestCase",
+    "CorrectAnswer": "Usability Attribute/Principle, Measuring Concept, Measuring Method, New Level/Worst Case/Planned Level/Best Case",
     "FakeAnswers": []
   },
   {
@@ -353,12 +353,12 @@
     },
     {
         "Question" : "This UI attempt to address the problems associated with purely auditory and purely visual interfaces by providing a more immersive environment for human-computer interaction.",
-        "CorrectAnswer" : "Multi-model User Interface",
+        "CorrectAnswer" : "Multi-modal User Interface",
         "FakeAnswers" : []
     },
     {
         "Question" : "This UI is one that relies on the use of multiple human communication channels to manipulate the computer. These communication channels translate to a computer's input and output devices.",
-        "CorrectAnswer" : "Multi-model User Interface",
+        "CorrectAnswer" : "Multi-modal User Interface",
         "FakeAnswers" : []
     },
     {
