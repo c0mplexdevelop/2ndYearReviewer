@@ -136,37 +136,37 @@
     },
     {
         "Question" : "According to Plato, the soul has ... (numeric) different parts.",
-        "CorrectAnswer" : "",
+        "CorrectAnswer" : "3",
         "FakeAnswers" : []
     },
     {
         "Question" : "According to Plato, this is the part of the soul that has reason and intellect.",
-        "CorrectAnswer" : "Rational Soul",
+        "CorrectAnswer" : "Rational",
         "FakeAnswers" : []
     },
     {
         "Question" : "According to Plato, this is the part of the soul that has divine essence that enables us to think deeply, make wise choices and achieve a true understanding of eternal truths.",
-        "CorrectAnswer" : "Rational Soul",
+        "CorrectAnswer" : "Rational",
         "FakeAnswers" : []
     },
     {
         "Question" : "According to Plato, this is the part of the soul that has emotion and passion.",
-        "CorrectAnswer" : "Spirited Soul",
+        "CorrectAnswer" : "Spirited",
         "FakeAnswers" : []
     },
     {
         "Question" : "According to Plato, this is the part of the soul that has basic emotions such as love, anger, ambition, empathy, and aggressiveness.",
-        "CorrectAnswer" : "Spirited Soul",
+        "CorrectAnswer" : "Spirited",
         "FakeAnswers" : []
     },
     {
         "Question" : "According to Plato, this is the part of the soul that has our basic needs.",
-        "CorrectAnswer" : "Appetitive Soul",
+        "CorrectAnswer" : "Appetitive",
         "FakeAnswers" : []
     },
     {
         "Question" : "According to Plato, this is the part of the soul that includes our biological needs such as hunger, thirst and sexual desire.",
-        "CorrectAnswer" : "Appetitive Soul",
+        "CorrectAnswer" : "Appetitive",
         "FakeAnswers" : []
     },
     {
@@ -176,7 +176,7 @@
     },
     {
         "Question" : "Plato believed that ... can only be achieved by people who consistently make sure that their Rational is in control of their Spirits and Appetities.",
-        "CorrectAnswer" : "Geneuine Happiness.",
+        "CorrectAnswer" : "Geneuine Happiness",
         "FakeAnswers" : []
     },
     {
@@ -280,7 +280,7 @@
         "FakeAnswers" : []
     },
     {
-        "Question" : "According to Augustine, the self is known only through knowing God.",
+        "Question" : "According to ..., the self is known only through knowing God.",
         "CorrectAnswer" : "St. Augustine",
         "FakeAnswers" : []
     },
@@ -401,7 +401,7 @@
     },
     {
         "Question": "Defined as a science that studies human behavior.",
-        "CorrectAnswer": "Physhology",
+        "CorrectAnswer": "Psychology",
         "FakeAnswers": []
       },
     {
@@ -436,22 +436,22 @@
     },
     {
       "Question": "Things we are unaware of and can not become aware of.",
-      "CorrectAnswer": "Unconsious",
+      "CorrectAnswer": "Unconscious",
       "FakeAnswers": []
     },
     {
       "Question": "According to Freud, what contains innate biological instincts and desires.",
-      "CorrectAnswer": "The Id",
+      "CorrectAnswer": "Id",
       "FakeAnswers": []
     },
     {
       "Question": "According to Freud, what internalizes societal rules and morals.",
-      "CorrectAnswer": "The Superego",
+      "CorrectAnswer": "Superego",
       "FakeAnswers": []
     },
     {
       "Question": "According to Freud, what mediates between the demands of the id, the superego,and reality.",
-      "CorrectAnswer": "The ego",
+      "CorrectAnswer": "Ego",
       "FakeAnswers": []
     },
     {
@@ -466,7 +466,7 @@
     },
     {
       "Question": "What are the three types of anxiety.",
-      "CorrectAnswer": "Reality, Neorotic,and Moral",
+      "CorrectAnswer": "Reality, Neurotic, and Moral",
       "FakeAnswers": []
     },
     {
@@ -481,7 +481,7 @@
     },
     {
       "Question": "Comes from an unconscious fear that the basic impulses of the id will take control of the person, leading to eventual punishment from expressing the id's desires.'",
-      "CorrectAnswer": "Neorotic Anxiety",
+      "CorrectAnswer": "Neurotic Anxiety",
       "FakeAnswers": []
     },
     {
@@ -525,7 +525,7 @@
       "FakeAnswers": []
     },
     {
-      "Question": "Involves an individual coping with a traumatic, stressful, and anxiety-provoking situation by returninh t an earlier developmental stage, or going psychologically back to a period in time.",
+      "Question": "Involves an individual coping with a traumatic, stressful, and anxiety-provoking situation by returning to an earlier developmental stage, or going psychologically back to a period in time.",
       "CorrectAnswer": "Regression",
       "FakeAnswers": []
     },
@@ -580,7 +580,7 @@
       "FakeAnswers": []
     },
     {
-      "Question": "Adler believed that because only children never have to share attention or feel replaced by another sibling, they may not learn how to cooperate with other children",
+      "Question": "TRUE OR FALSE: Adler believed that because only children never have to share attention or feel replaced by another sibling, they may not learn how to cooperate with other children",
       "CorrectAnswer": "True",
       "FakeAnswers": []
     },
@@ -610,7 +610,7 @@
       "FakeAnswers": []
     },
     {
-      "Question": "Watson argued that if psychology was to be a science, it had to focus on the tangible aspects of human nature – that which could be seen, heard, recorded and measured.",
+      "Question": "TRUE OR FALSE: Watson argued that if psychology was to be a science, it had to focus on the tangible aspects of human nature – that which could be seen, heard, recorded and measured.",
       "CorrectAnswer": "True",
       "FakeAnswers": []
     },
@@ -630,7 +630,7 @@
       "FakeAnswers": []
     },
     {
-      "Question": "The (A) antecedent refers to the environment which the (B) behavior takes place, while the (C) consequence is the reinforcement (reward experience) or the punishment.",
+      "Question": "TRUE OR FALSE: The (A) antecedent refers to the environment which the (B) behavior takes place, while the (C) consequence is the reinforcement (reward experience) or the punishment.",
       "CorrectAnswer": "True",
       "FakeAnswers": []
     },
@@ -645,12 +645,12 @@
       "FakeAnswers": []
     },
     {
-      "Question": "The Four Phases of Observational Learning are: Attentional, Retention, Motor Reproduction, and Motivational",
+      "Question": "TRUE OR FALSE: The Four Phases of Observational Learning are: Attentional, Retention, Motor Reproduction, and Motivational",
       "CorrectAnswer": "True",
       "FakeAnswers": []
     },
     {
-      "Question": "He is American psychologist that established the psychological school of behaviourism 'Litter Albert Experiment'",
+      "Question": "He is American psychologist that established the psychological school of behaviourism and performed the 'Litter Albert Experiment'",
       "CorrectAnswer": "John Broadus Watson",
       "FakeAnswers": []
     },
@@ -666,7 +666,7 @@
     },
     {
       "Question": "It refers to the school of psychology that is founded by John B. Watson",
-      "CorrectAnswer": "Nehaviorism",
+      "CorrectAnswer": "Behaviorism",
       "FakeAnswers": []
     },
     {
@@ -686,7 +686,7 @@
     },
     {
       "Question": "It is one of the most controversial experiments in the history of psychology.",
-      "CorrectAnswer": "Watson Experiment",
+      "CorrectAnswer": "Little Albert",
       "FakeAnswers": []
     },
     {
