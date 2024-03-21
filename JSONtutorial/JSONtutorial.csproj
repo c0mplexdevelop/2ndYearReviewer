@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="HC101-Midterm.json">
+    <None Update="HCI101-Midterm.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="IPT101-Midterm.json">
