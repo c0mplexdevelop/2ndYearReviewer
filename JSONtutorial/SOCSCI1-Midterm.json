@@ -1,0 +1,747 @@
+[
+    {
+        "Question" : "This is all about finding answers to serious questions about ourselves and about the world.",
+        "CorrectAnswer" : "Philosophy",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This is questioning our existing knowledge, and intuitions to get closer to the truth",
+        "CorrectAnswer" : "Philosophy",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "Who was the first person to use the term \"Philosophy\"",
+        "CorrectAnswer" : "Pythagoras",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This is the Greek word of \"Love\"",
+        "CorrectAnswer" : "Philo",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "The greek word for \"Wisdom\"",
+        "CorrectAnswer" : "Sophia",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "Who said 'Know thyself'?",
+        "CorrectAnswer" : "Socrates",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "Philosophers agree that ... is a prerequisite to a happy and meaningful life",
+        "CorrectAnswer" : "self-knowledge",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "Who said 'An unexamined life is not worth living'?",
+        "CorrectAnswer" : "Socrates",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Socrates, evary man is ...",
+        "CorrectAnswer" : "Dualistic",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Socrates, the man is composed of ... and ...",
+        "CorrectAnswer" : "body, soul",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Socrates, this is the imperfect and impermament component of man.",
+        "CorrectAnswer" : "Body",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Socrates, this is the perfect and permanent component of man.",
+        "CorrectAnswer" : "Soul",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Socrates, there are ... (numeric) dichotomous realms.",
+        "CorrectAnswer" : "2",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Socrates, the ... is changeable, transient, and imperfect",
+        "CorrectAnswer" : "Physical Realm",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Socrates, the body belongs to this realm.",
+        "CorrectAnswer" : "Physical Realm",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Socrates, this is the unchanging, eternal, and immortal realm.",
+        "CorrectAnswer" : "Ideal Realm",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Socrates, the soul belongs to this realm",
+        "CorrectAnswer" : "Ideal Realm",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "He was the first thinker to focus on the full power of reason on the human self.",
+        "CorrectAnswer" : "Socrates",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to him, he suggested that the human self's full power of reason is 'who we are', 'who we should be', and 'who we will be'.",
+        "CorrectAnswer" : "Socrates",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Socrates, the soul strives ... and ...",
+        "CorrectAnswer" : "Wisdom, Perfection",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "He said that our bodily needs keep us from attaining wisdom.",
+        "CorrectAnswer" : "Socrates",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Socrates, a person can have a meaningul and happy life only if he becomes ... and knows the value of himmself that can be achieved through soul-searching",
+        "CorrectAnswer" : "Virtuous",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "He is a student of Socrates.",
+        "CorrectAnswer" : "Plato",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "Kinakainan natin sya.",
+        "CorrectAnswer" : "Plato",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "He proposed that the philosophy of the self can be explained as a process of self-knowledge and purification of the soul.",
+        "CorrectAnswer" : "Plato",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "He believed in the existence of the mind and soul",
+        "CorrectAnswer" : "Plato",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "Plato said that the ... and ... are given in Perfection with God",
+        "CorrectAnswer" : "mind, soul",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Plato, the soul has ... (numeric) different parts.",
+        "CorrectAnswer" : "",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Plato, this is the part of the soul that has reason and intellect.",
+        "CorrectAnswer" : "Rational Soul",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Plato, this is the part of the soul that has divine essence that enables us to think deeply, make wise choices and achieve a true understanding of eternal truths.",
+        "CorrectAnswer" : "Rational Soul",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Plato, this is the part of the soul that has emotion and passion.",
+        "CorrectAnswer" : "Spirited Soul",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Plato, this is the part of the soul that has basic emotions such as love, anger, ambition, empathy, and aggressiveness.",
+        "CorrectAnswer" : "Spirited Soul",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Plato, this is the part of the soul that has our basic needs.",
+        "CorrectAnswer" : "Appetitive Soul",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Plato, this is the part of the soul that includes our biological needs such as hunger, thirst and sexual desire.",
+        "CorrectAnswer" : "Appetitive Soul",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "When ... occurs, Plato believes that is the responsibility of the ... soul to sort things out and exert control, restoriing the harmonious relationship among the three.",
+        "CorrectAnswer" : "Conflict, Rational",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "Plato believed that ... can only be achieved by people who consistently make sure that their Rational is in control of their Spirits and Appetities.",
+        "CorrectAnswer" : "Geneuine Happiness.",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "Who said 'The soul is the essence of the self'?",
+        "CorrectAnswer" : "Aristotle",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "He is a student of Plato.",
+        "CorrectAnswer" : "Aristotle",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "He said that The body and soul are not two separate elements but are one thing.",
+        "CorrectAnswer" : "Aristotle",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "He said that the soul is simply the form of the body, and is not capable of existing without the body.",
+        "CorrectAnswer" : "Aristotle",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Aristotle, The ... makes a person a person.",
+        "CorrectAnswer" : "Soul",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Aristotle, The soul is the essence of ...",
+        "CorrectAnswer" : "Self",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "He suggested that the rational nature of the self is to lead a good, flourishing and fulfilling life.",
+        "CorrectAnswer" : "Aristotle",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "Without the ..., the soul cannot exist. The soul dies along with it.",
+        "CorrectAnswer" : "Body",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "Aristotle suggested that anything with ... has a soul",
+        "CorrectAnswer" : "Life",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Aristortle, there are ... (numeric) kinds of soul.",
+        "CorrectAnswer" : "3",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Aristotle, this kind of soul includes the physical body that can grow.",
+        "CorrectAnswer" : "Vegetative",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Aristortle, this kind of soul includes the sensual desires, feelings, and emotions.",
+        "CorrectAnswer" : "Sentient",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Aristortle, this kind of soul is what makes man human.",
+        "CorrectAnswer" : "Rational",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Aristotle, this kind of soul includes the intellect that makes man know and understand things",
+        "CorrectAnswer" : "Rational",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "Who said 'I am doubting therefore I am'?",
+        "CorrectAnswer" : "St. Augustine",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "He integrated the ideas of Plato and Christianity.",
+        "CorrectAnswer" : "St. Augustine",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "His view of the human person reflects the entire spirit of the medieval world.",
+        "CorrectAnswer" : "St. Augustine",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "He said that the soul is united with the body, so that man may be entire and complete.",
+        "CorrectAnswer" : "St. Augustine",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "He believed that humankind is created in teh image and likeness of God.",
+        "CorrectAnswer" : "St. Augustine",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "Augustine believed that the human person is a creation of God is always ... towards God.",
+        "CorrectAnswer" : "Geared",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Augustine, the self is known only through knowing God.",
+        "CorrectAnswer" : "St. Augustine",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Augustine, this is the consequence of knowledge of God.",
+        "CorrectAnswer" : "Self-Knowledge",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "He said that 'Knowledge can only come by seeing the truth that dwells within us.'",
+        "CorrectAnswer" : "Augustine",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "He said 'I think therefore I am'",
+        "CorrectAnswer" : "Rene Descartes",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "The act of thinking about ..., is in itself proof that there is ... (single answer)",
+        "CorrectAnswer" : "Self",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "How many distinct Entities does Descartes recognize (numeric)?",
+        "CorrectAnswer" : "2",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Descartes, this is the thing that thinks. It also includes the mind.",
+        "CorrectAnswer" : "Cogito",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "Accordding to Descartes, this is the extension, and the body.",
+        "CorrectAnswer" : "Extenza",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "Who said 'The self is consciousness'?",
+        "CorrectAnswer" : "John Locke",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Locke, the human mind at birth is ... or a blank slate",
+        "CorrectAnswer" : "Tabula Rasa",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Locke, the ... is constructed primarily from sense experiences",
+        "CorrectAnswer" : "Self",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "He theorized that babies know absolutely nothing.",
+        "CorrectAnswer" : "John Locke",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Locke, the inside of a baby's brain was ..., ready to learn everything through experience",
+        "CorrectAnswer" : "Empty",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "This is necessary to have a coherent personal identity or knowledge of the self as a person.",
+        "CorrectAnswer" : "Consciousness",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "What makes our belief possible, is that we are the same ... in different situations",
+        "CorrectAnswer" : "Identity",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "Who argued that the self is not just what gives one personality, but also the seat of knowledge acquisition for all human persons.",
+        "CorrectAnswer" : "Immanuel Kant",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Kant, the self constructs its own ... creating a world that is familiar and predictable.",
+        "CorrectAnswer" : "Reality",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Kant, our ... makes our self transcends sense experience.",
+        "CorrectAnswer" : "Rationality",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "He said that the mind-body bifurcation that has been going on for a long time is a futile endeavor and an invalid problem.",
+        "CorrectAnswer" : "Maurice Merleau-Ponty",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "TRUE OR FALSE: According to Ponty, the bifurbication between mind and body is a valid problem and fruitful endeavor",
+        "CorrectAnswer" : "FALSE",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Ponty, all knowledge of ourselves and our world is based on ...",
+        "CorrectAnswer" : "Subjective Experience",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Ponty, the ... can never be truly objectified or known in a completely objective sort of way.",
+        "CorrectAnswer" : "Self",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "Who said that the self is embodied subjectivity.",
+        "CorrectAnswer" : "Maurice Merleau-Ponty",
+        "FakeAnswers" : []
+    },
+    {
+        "Question" : "According to Ponty, the self is ...",
+        "CorrectAnswer" : "Embodied Subjectivity",
+        "FakeAnswers" : []
+    },
+    {
+        "Question": "Defined as a science that studies human behavior.",
+        "CorrectAnswer": "Physhology",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Are trained To observe, describe, understand , predict, and control behavoir with the use of different objective and projective methods.",
+        "CorrectAnswer": "Psychologist",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "The Study of the unconcious.",
+        "CorrectAnswer": "Psychodynamic",
+        "FakeAnswers": ""
+      },
+      {
+        "Question": "According to Sigmund Frued, it views us, human beings as biological organisms motivated by the satisfaction of our bodily needs.",
+        "CorrectAnswer": "Psychoanalysis",
+        "FakeAnswers": ""
+      },
+      {
+        "Question": "According to Sigmund Freud, It states that your experience as a childe strongly determine your adult personality.",
+        "CorrectAnswer": "Psychoanalysis",
+        "FakeAnswers": ""
+      },
+      {
+        "Question": "Small amount of mental activity we know about.",
+        "CorrectAnswer": "Conscious",
+        "FakeAnswers": ""
+      },
+      {
+        "Question": "Things we could be aware of if we wanted or tried.",
+        "CorrectAnswer": "Preconscious",
+        "FakeAnswers": ""
+      },
+      {
+        "Question": "Things we are unaware of and can not become aware of.",
+        "CorrectAnswer": "Unconsious",
+        "FakeAnswers": ""
+      },
+      {
+        "Question": "According to Freud, what contains innate biological instincts and desires.",
+        "CorrectAnswer": "The Id",
+        "FakeAnswers": ""
+      },
+      {
+        "Question": "According to Freud, what internalizes societal rules and morals.",
+        "CorrectAnswer": "The Superego",
+        "FakeAnswers": ""
+      },
+      {
+        "Question": "According to Freud, what mediates between the demands of the id, the superego,and reality.",
+        "CorrectAnswer": "The ego",
+        "FakeAnswers": ""
+      },
+      {
+        "Question": "A feeling of fear, dread, and uneasisness.",
+        "CorrectAnswer": "Anxiety",
+        "FakeAnswers": ""
+      },
+      {
+        "Question": "It can be a normal reaction to stress.",
+        "CorrectAnswer": "Anxiety",
+        "FakeAnswers": ""
+      },
+      {
+        "Question": "What are the three types of anxiety.",
+        "CorrectAnswer": "Reality, Neorotic,and Moral",
+        "FakeAnswers": ""
+      },
+      {
+        "Question": "The most basic form of anxiety and is based on the ego.",
+        "CorrectAnswer": "Reality Anxiety",
+        "FakeAnswers": ""
+      },
+      {
+        "Question": " It is typically based on the fear of real and possible events, for example, being bit by a dog or falling off of a roof.",
+        "CorrectAnswer": "Reality Anxiety",
+        "FakeAnswers": ""
+      },
+      {
+        "Question": "Comes from an unconscious fear that the basic impulses of the id will take control of the person, leading to eventual punishment from expressing the id's desires.'",
+        "CorrectAnswer": "Neorotic Anxiety",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Comes from the superego, which appears in the for of a fear violating values or moral codes  and appears as feeling like guilt or shame",
+        "CorrectAnswer": "Moral Anxiety",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Methods people use to cope with feelings of stress or anxiety.",
+        "CorrectAnswer": "Defense mechanism",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "These methods can vary widely in thei degree of helping or potentially causing further harm.",
+        "CorrectAnswer": "Defense mechanism",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "An unconscious act of taking unwanted emotions or traits you don't like or refuse to accept about yourself and attributing them to someone else.'",
+        "CorrectAnswer": "Projection",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "The interpretation of your environment to see what you want to see, the way you want to see it.",
+        "CorrectAnswer": "Distortion",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Your unconcious brain may seek out data that supports your belief and ignore evidence against it to protect your ego so you can perceive yourself as right or good instead of having make a mistake.",
+        "CorrectAnswer": "Distortion",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Involves a person adopting the thoughts and behaviors of a person who has power over them.",
+        "CorrectAnswer": "Identification",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "It is when people use reason, logic, and facts to avoid uncomfortable feelings or situation.",
+        "CorrectAnswer": "Intellectualization",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Involves an individual coping with a traumatic, stressful, and anxiety-provoking situation by returninh t an earlier developmental stage, or going psychologically back to a period in time.",
+        "CorrectAnswer": "Regression",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "It involves a person substituting their agressive or problematic impulses with a healthier  and more positive alternatives.",
+        "CorrectAnswer": "Sublimation",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Involves disconnecting yourself and your own thoughhts, feeling, memories, or sense of identity, which often happens in response to a traumatic situation, like when a person is being abused and can range from mild to extreme.",
+        "CorrectAnswer": "Dissociation",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Involves taking out difficult feelings, frustations, and impulses on a less threatening person or object.",
+        "CorrectAnswer": "Displacement",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "According to Alfred Adler, what is the theory of human behaior and therapeutic approach that encourages individuals to make positive constributions to society as well as to achieve personal  hapiness.",
+        "CorrectAnswer": "Individual Psychology",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Who proposed the view of Personality that focuses on striving for superiority.",
+        "CorrectAnswer": "Alfred Adler",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "He believed that we are motivated to overcome inferiorities.",
+        "CorrectAnswer": "Alfred Adler",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "According to Adler, _____ feelings are inescapable, which are necessary because they provide the motivation to strive and grow.",
+        "CorrectAnswer": "Inferiority",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "He highlighted in his theory that the concept of compensation wherein we form some strategies to strive for a higher level of development. When a person is unable to compensate his/her weaknesses, he/she develops the feeling of inferiority. Thus, he/she has an inferiority complex. ",
+        "CorrectAnswer": "Alfred Adler",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "What is the conscious or unconscious feeling that one is not as good as others?",
+        "CorrectAnswer": "Inferiority complex",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "According to Adler in 1927/1946, 1964, which term  he used as a structure to describe each member's niche within the family system.",
+        "CorrectAnswer": "Family constellation",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Adler believed that because only children never have to share attention or feel replaced by another sibling, they may not learn how to cooperate with other children",
+        "CorrectAnswer": "True",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Birth order position that have all of their parent's attention, aside from the only children",
+        "CorrectAnswer": "Oldest Chiildren",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Birth order position that is subjected to a very different set of circumstances from the first.",
+        "CorrectAnswer": "Second Born",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Birth position that is usually the most pampered and overindulged in a family, and the second most likely to be a problem, and may feel inferior to evryone because everyone in the famiily is older or seen as superior.",
+        "CorrectAnswer": "Youngest Children",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "The Study of the Consciousness ",
+        "CorrectAnswer": "Behaviorism",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Who founded the second school of psychology - behaviorism.",
+        "CorrectAnswer": "John B. Watson",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Watson argued that if psychology was to be a science, it had to focus on the tangible aspects of human nature – that which could be seen, heard, recorded and measured.",
+        "CorrectAnswer": "True",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Who ignored genetic factors and insisted that Personality is shaped by controlling the enviroment.",
+        "CorrectAnswer": "Watson",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Sometimes reffered to as instrumental conditioning, and is a method of learning that employs rewards and punishment for behavior, and an association between a behavior and consequence for  that behavior.",
+        "CorrectAnswer": "Operant Conditioning",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "The Three process of operant conditioning are: ___,___, and ___.",
+        "CorrectAnswer": "antecedent, behavior, and consequence",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "The (A) antecedent refers to the environment which the (B) behavior takes place, while the (C) consequence is the reinforcement (reward experience) or the punishment.",
+        "CorrectAnswer": "True",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Who is the psychologist who developed social learning theory.",
+        "CorrectAnswer": "Albert Bandura",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Albert Bandura studied children in order to understand how they learn from others. His studies showed that children imitate each other because they observe the actions of others and copy them. This process is called ____.",
+        "CorrectAnswer": "Observational Learning",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "The Four Phases of Observational Learning are: Attentional, Retention, Motor Reproduction, and Motivational",
+        "CorrectAnswer": "True",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "He is American psychologist that established the psychological school of behaviourism 'Litter Albert Experiment'",
+        "CorrectAnswer": "John Broadus Watson",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Experiment that John Watson establish in psychological school of behaviourism",
+        "CorrectAnswer": "Little Albert Experiment",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "It is a theory of learning based on the idea that all behaviors are acquired through conditioning",
+        "CorrectAnswer": "Behaviorism",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "It refers to the school of psychology that is founded by John B. Watson",
+        "CorrectAnswer": "Nehaviorism",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "What is the middle name of John B. Watson",
+        "CorrectAnswer": "Broadus",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "3 Principles of learning in Behaviorist Theory",
+        "CorrectAnswer": "Frequency, Recency, Effect",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "What research did Watson is interested in order to show that emotional reactions could be classically conditioned in people.",
+        "CorrectAnswer": "Pavlov's Research",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "It is one of the most controversial experiments in the history of psychology.",
+        "CorrectAnswer": "Watson Experiment",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "3 Classical Conditioning",
+        "CorrectAnswer": "Before, During, After Conditioning",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "He is known as the best in developing the theory of behaviorism, and for his utopian novel 'Walden Two'",
+        "CorrectAnswer": "B.F. Skinner",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "It is the operant conditioning chamber that was designed to teach rats how to push a lever.",
+        "CorrectAnswer": "The Skinner Box",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "It is a method of learning that occures through rewards and punishments for behaviour",
+        "CorrectAnswer": "Operant Conditioning",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "3 types of operants",
+        "CorrectAnswer": "Neutral, Reinforcers, Punishers",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Type of operants that is responses from the environment that neither increase nor decrease the probability of a behaviour being repeated",
+        "CorrectAnswer": "Neutral Operants",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Type of operants that are responses from the environment that increase the probability of a behaviour being repeated",
+        "CorrectAnswer": "Reinforcers",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Type of operants that is responses from the environment that decrease the likelihood of a behaviour being repeated",
+        "CorrectAnswer": "Punishers",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "It is the replication of other's behavior through observation and imitation",
+        "CorrectAnswer": "Observational Learning",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "Learning is the result of interacting with forces in the environment. What is it?",
+        "CorrectAnswer": "Behavioral Approach",
+        "FakeAnswers": []
+      },
+      {
+        "Question": "It is learning can happen in mind without directly interacting with the environment.",
+        "CorrectAnswer": "Cognitive Approach",
+        "FakeAnswers": []
+      }
+]
