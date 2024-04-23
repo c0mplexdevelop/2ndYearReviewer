@@ -52,7 +52,7 @@
         "CorrectAnswer" : "Wizard of OZ Prototyping"
     },
     {
-        "Question" : "Give ALL the examples of Popular UI prototyping tools from the presentation (separate answers by comma).",
+        "Question" : "Give ALL the examples of Popular UI prototyping tools from the presentation (separate answers by comma. There are 7).",
         "CorrectAnswer" : "Figma; InVision Studio; Adobe XD; Webflow; Axure RP; Origami Studio; Justinmind"
     },
     {
@@ -100,12 +100,12 @@
         "CorrectAnswer" : "Output device"
     },
     {
-        "Question" : "ALL examples of input devices: ",
+        "Question" : "ALL examples of input devices (separated by comma. There are 6): ",
         "CorrectAnswer" : "Keyboard; Mouse; Touchpad; Scanner; Microphone; Webcam"
     },
     {
-        "Question" : "ALL examples of output devices (separate answers by comma): ",
-        "CorrectAnswer" : "Monitor; Priner; Speakers; Projector; Headphones; Digital Projector;"
+        "Question" : "ALL examples of output devices (separated by comma. There are 6): ",
+        "CorrectAnswer" : "Monitor; Printer; Speakers; Projector; Headphones; Digital Projector;"
     },
     {
         "Question" : "In interface architecture, these refer to the methods used to facilitate communication between a user and a computer system. Effective use of this are critical for creating interfaces that are intuitive, efficient, and user-friendly. Here are some common dialogue techniques used in interface architecture:",
@@ -281,7 +281,7 @@
     },
     {
         "Question" : "Four Usability specifications:",
-        "CorrectAnswer" : "usability attribute/principle; measuring concept; measuring method; now level/ worst case/ planned level/ best case"
+        "CorrectAnswer" : "usability attribute/principle; measuring concept; measuring method; now level/worst case/planned level/best case"
     },
     {
         "Question": "It is a usability specification that requires level of detail that may not be possible early in design satisfying a usability specification does not necessarily satisfy usability",
