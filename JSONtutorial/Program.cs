@@ -45,6 +45,7 @@ while (turns < maxScore)
                 Console.WriteLine(answer);
             }
 
+            bool isCorrect = true;
             foreach(var answer in allUserAnswers) {
                 if(!allAnswers.Contains(answer.ToUpper())) {
                     Console.WriteLine($"{answer}, is not a valid answer!");
@@ -52,8 +53,11 @@ while (turns < maxScore)
                     break;
                 }
             }
-            Console.WriteLine("Correct!");
-            score++;
+            if(isCorrect) {
+                Console.WriteLine("Correct!");
+                score++;
+            }
+            
             
         }
         else {
