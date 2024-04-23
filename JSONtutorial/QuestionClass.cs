@@ -8,8 +8,8 @@ namespace Reviewer
 {
     public class QuestionClass
     {
-        public string Question {  get; init; }
-        public string CorrectAnswer { get; init; }
-        public string[] FakeAnswers { get; init; }  
+        public required string Question {  get; init; }
+        public required string CorrectAnswer { get; init; }
+        public string[]? FakeAnswers { get; init; }  
     }
 }
