@@ -220,55 +220,99 @@
         "CorrectAnswer" : "Implementation"
     },
     {
-        "Question" : "",
-        "CorrectAnswer" : ""
+        "Question" : "This is done to figure out the user's goals.",
+        "CorrectAnswer" : "Interviewing"
     },
     {
-        "Question" : "",
-        "CorrectAnswer" : ""
+        "Question" : "Similar to an interview, but done in the “context” where the participant is likely to interact with the technology.",
+        "CorrectAnswer" : "Contextual inquiry"
     },
     {
-        "Question" : "",
-        "CorrectAnswer" : ""
+        "Question" : "Greater partnership with the participant, working together to figure out how a workflow actually happens.",
+        "CorrectAnswer" : "Contextual inquiry"
     },
     {
-        "Question" : "",
-        "CorrectAnswer" : ""
+        "Question" : "This is similar to a recipe for how to handle common user interface design issues",
+        "CorrectAnswer" : "Design Patterns"
     },
     {
-        "Question" : "",
-        "CorrectAnswer" : ""
+        "Question" : "When facing a design problem, these can be useful to look at several patterns and see if they help you solve the problem",
+        "CorrectAnswer" : "Design Patterns"
     },
     {
-        "Question" : "",
-        "CorrectAnswer" : ""
+        "Question" : "Pros of Design Patterns:",
+        "CorrectAnswer" : "No wheel reinvention; learning from others' mistakes"
     },
     {
-        "Question" : "",
-        "CorrectAnswer" : ""
+        "Question" : "Cons of Design Patterns:",
+        "CorrectAnswer" : "Only common things have patterns; Pattern are not one-size-fits-all"
     },
     {
-        "Question" : "",
-        "CorrectAnswer" : ""
+        "Question" : "Three examples of getting input:",
+        "CorrectAnswer" : "Flexible Format; Fill in the blank; Structured format"
     },
     {
-        "Question" : "",
-        "CorrectAnswer" : ""
+        "Question" : "Pros of Contextual Inquiry:",
+        "CorrectAnswer" : "Rich data; Identify obvious things; see environment for interaction"
     },
     {
-        "Question" : "",
-        "CorrectAnswer" : ""
+        "Question" : "Cons of Contextual Inquiry:",
+        "CorrectAnswer" : "More involved; Less structured data; May require permission."
     },
     {
-        "Question" : "",
-        "CorrectAnswer" : ""
+        "Question" : "Two types of Design:",
+        "CorrectAnswer" : "Conceptual; Physical"
     },
     {
-        "Question" : "",
-        "CorrectAnswer" : ""
+        "Question" : "A limited representation of a design that allow users to interact with it and to explore its suitability.",
+        "CorrectAnswer" : "Prototype"
     },
     {
-        "Question" : "",
-        "CorrectAnswer" : ""
+        "Question" : "This allows stakeholders to interact with the envisioned product, gain some experience of using and explore imagined uses.",
+        "CorrectAnswer" : "Prototype"
+    },
+    {
+        "Question" : "Reasons to use prototyping:",
+        "CorrectAnswer" : "Communication; Testing; Effectiveness; Compatibility"
+    },
+    {
+        "Question" : "The ultimate test of usability based on measurement of user experience",
+        "CorrectAnswer" : "Usability Engineering"
+    },
+    {
+        "Question" : "Four Usability specifications:",
+        "CorrectAnswer" : "usability attribute/principle; measuring concept; measuring method; now level/ worst case/ planned level/ best case"
+    },
+    {
+        "Question": "It is a usability specification that requires level of detail that may not be possible early in design satisfying a usability specification does not necessarily satisfy usability",
+      "CorrectAnswer": "Problems"
+    },
+    {
+        "Question" : "This is adopts traditional usability categories:",
+        "CorrectAnswer" : "ISO 9241"
+    },
+    {
+        "Question" : "Three aspects of ISO 9241:",
+        "CorrectAnswer" : "effectiveness; efficiency; satisfaction"
+    },
+    {
+        "Question" : "A method for usability inspection in where evaluators evaluate the UI according to Usability Principles.",
+        "CorrectAnswer" : "Heuristic Evaluation"
+    },
+    {
+        "Question" : "This method for usability inspection works well on working UI as well as wireframes.",
+        "CorrectAnswer" : "Heuristic Evaluation"
+    },
+    {
+        "Question" : "The ten heuristics (separate by comma):",
+        "CorrectAnswer" : "Visibility of system status; Match system to real-world; User control and freedom; Consistency and Standards; Error Prevention; Recognition rather than recall; Flexibility and efficiency; Aesthetics and minimalist design; Recognize, diagnose, and recover from errors; Help and documentation"
+    },
+    {
+        "Question" : "This method for usability inspection simulates user's problem-solving process at each step through the dialogue",
+        "CorrectAnswer" : "Cognitive Walkthrough"
+    },
+    {
+        "Question" : "This is a step by step execution/evaluation of selected typical tasks with a system",
+        "CorrectAnswer" : "Cognitive Walkthrough"
     }
 ]
