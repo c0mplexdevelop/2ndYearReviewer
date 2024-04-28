@@ -1,0 +1,374 @@
+[
+    {
+        "Question" : "This creates a representation or model of the software.",
+        "CorrectAnswer" : "Design"
+    },
+    {
+        "Question" : "unlike the requirements model (that focuses on describing required data, function, and behavior), this provides detail about software architecture, data structures, interfaces, and components that are necessary to implement the system.",
+        "CorrectAnswer" : "Design Model"
+    },
+    {
+        "Question" : "This allows you to model the system or product that is to be built.",
+        "CorrectAnswer" : ""
+    },
+    {
+        "Question" : "In design, this can be assessed for quality and be improved upon on",
+        "CorrectAnswer" : "Model"
+    },
+    {
+        "Question" : "The place where software quality is established.",
+        "CorrectAnswer" : "Design"
+    },
+    {
+        "Question" : "This sits at the technical kernel of software engineering and is applied regardless of the software process model that is used.",
+        "CorrectAnswer" : "Software Design"
+    },
+    {
+        "Question" : "This is the last software engineering action within the modeling activity and sets the stage for construction (code generation and testing).",
+        "CorrectAnswer" : "Software Design"
+    },
+    {
+        "Question" : "In this stage of design model, this transforms class models into design class realizations and the requisite data structures required to implement the software.",
+        "CorrectAnswer" : "Data/Class Design"
+    },
+    {
+        "Question" : "In this stage of design model, this defines the relationship between major structural elements of the software, the architectural styles and design patterns that can be used to achieve the requirements defined for the system, and the constraints that affect the way in which architecture can be implemented.",
+        "CorrectAnswer" : "Architectural Design"
+    },
+    {
+        "Question" : "In this stage of design model, this describes how the software communicates with systems that interoperate with it, and with humans who use it. An interface implies a flow of information (e.g., data and/or control) and a specific type of behavior.",
+        "CorrectAnswer" : "Interface Design"
+    },
+    {
+        "Question" : "In this stage of design model, this transforms structural elements of the software architecture into a procedural description of software components.",
+        "CorrectAnswer" : "Component-level Design"
+    },
+    {
+        "Question" : "This is an iterative process through which requirements are translated into a “blueprint” for constructing the software.",
+        "CorrectAnswer" : "Software Design"
+    },
+    {
+        "Question" : "This is an alternative term where initially, the blueprint depicts a holistic view of software.",
+        "CorrectAnswer" : "Software Design"
+    },
+    {
+        "Question" : "A set of fundamental software design concepts has evolved over the history of software engineering. Although the degree of interest in each concept has varied over the years, each has stood the test of time.",
+        "CorrectAnswer" : "Design Concepts"
+    },
+    {
+        "Question" : "At this level of abstraction, a solution is stated in broad terms using the language of the problem environment.",
+        "CorrectAnswer" : "Highest Level"
+    },
+    {
+        "Question" : "At this level of abstraction, a more detailed description of the solution is provided.",
+        "CorrectAnswer" : "Lower level"
+    },
+    {
+        "Question" : "This refers to “the overall structure of the software and the ways in which that structure provides conceptual integrity for a system”.",
+        "CorrectAnswer" : "Software architecture"
+    },
+    {
+        "Question" : "In its simplest form, this is the structure or organization of program components (modules), the manner in which these components interact, and the structure of data that are used by the components.",
+        "CorrectAnswer" : "Architecture"
+    },
+    {
+        "Question" : "This aspect of the architectural design representation defines the components of a system (e.g., modules, objects, filters) and the manner in which those components are packaged and interact with one another.",
+        "CorrectAnswer" : "Structural Properties"
+    },
+    {
+        "Question" : "The architectural design description should address how the design architecture achieves requirements for performance, capacity, reliability, security, adaptability, and other system characteristics.",
+        "CorrectAnswer" : "Extra-functional Properties"
+    },
+    {
+        "Question" : "The architectural design should draw upon repeatable patterns that are commonly encountered in the design of families of similar systems. In essence, the design should have the ability to reuse architectural building blocks.",
+        "CorrectAnswer" : "Families of Related Systems"
+    },
+    {
+        "Question" : "This is a named nugget of insight which conveys the essence of a proven solution to a recurring problem within a certain context amidst competing concerns.",
+        "CorrectAnswer" : "Pattern"
+    },
+    {
+        "Question" : "This describes a design structure that solves a particular design problem within a specific context and amid “forces” that may have an impact on the manner in which the pattern is applied and used.",
+        "CorrectAnswer" : "Pattern"
+    },
+    {
+        "Question" : "This is a design concept that suggests that any complex problem can be more easily handled if it is subdivided into pieces that can each be solved and/or optimized independently.",
+        "CorrectAnswer" : "Separation of Concern"
+    },
+    {
+        "Question" : "This is the most common manifestation of separation of concerns. Software is divided into separately named and addressable components, sometimes called modules, that are integrated to satisfy problem requirements.",
+        "CorrectAnswer" : "Modularity"
+    },
+    {
+        "Question" : "This has been stated that this is the single attribute of software that allows a program to be intellectually manageable",
+        "CorrectAnswer" : "Modularity"
+    },
+    {
+        "Question" : "This is the principle that suggests that modules be characterized by design decisions that (each) hides from all others.",
+        "CorrectAnswer" : "Information Hiding"
+    },
+    {
+        "Question" : "This principle states that modules should be specified and designed so that information (algorithms and data) contained within a module is inaccessible to other modules that have no need for such information.",
+        "CorrectAnswer" : "Information Hiding"
+    },
+    {
+        "Question" : "This is a concecpt that is a direct outgrowth of separation of concerns, modularity, and the concepts of abstraction and information hiding.",
+        "CorrectAnswer" : "Functional Independence"
+    },
+    {
+        "Question" : "This is achieved by developing modules with “single-minded” function and an “aversion” to excessive interaction with other modules.",
+        "CorrectAnswer" : "Functional Independence"
+    },
+    {
+        "Question" : "This is a top-down design strategy originally proposed by Niklaus Wirth.",
+        "CorrectAnswer" : "Refinement"
+    },
+    {
+        "Question" : "This is actually a process of elaboration. You begin with a statement of function (or description of information) that is defined at a high level of abstraction.",
+        "CorrectAnswer" : "Refinement"
+    },
+    {
+        "Question" : "In an ideal context, this is implemented as a separate module (component) rather than as software fragments that are scattered or tangled throughout many components.",
+        "CorrectAnswer" : "Aspects"
+    },
+    {
+        "Question" : "To accomplish this principle, the design architecture should support a mechanism for defining an aspect—a module that enables the concern to be implemented across all other concerns that it crosscuts.",
+        "CorrectAnswer" : "Aspects"
+    },
+    {
+        "Question" : "This an important design activity suggested for many agile methods, refactoring is a reorganization technique that simplifies the design (or code) of a component without changing its function or behavior.",
+        "CorrectAnswer" : "Refactoring"
+    },
+    {
+        "Question" : "This design principle suggest that the existing design is examined for redundancy, unused design elements, inefficient or unnecessary algorithms, poorly constructed or inappropriate data structures, or any other design failure that can be corrected to yield a better design.",
+        "CorrectAnswer" : "Refactoring"
+    },
+    {
+        "Question" : "This principle is widely used in modern software engineering, i.e. classes and objects, inheritance, messages, and polymorphism, among others.",
+        "CorrectAnswer" : "Object-Oriented"
+    },
+    {
+        "Question" : "In this principle, You will define a set of ______ that refine the analysis classes by providing design detail that will enable the classes to be implemented, and implement a software infrastructure that supports the business solution.",
+        "CorrectAnswer" : "Design Classes"
+    },
+    {
+        "Question" : "This dimension indicates the evolution of the design model as design tasks are executed as part of the software process.",
+        "CorrectAnswer" : "Process Dimension"
+    },
+    {
+        "Question" : "This dimension represents the level of detail as each element of the analysis model is transformed into a design equivalent and then refined iteratively.",
+        "CorrectAnswer" : "Abstraction Dimension"
+    },
+    {
+        "Question" : "This creates a model of data and/or information that is represented at a high level of abstraction (the customer/user’s view of data).",
+        "CorrectAnswer" : "Data Design"
+    },
+    {
+        "Question" : "Alternative term for Data Design",
+        "CorrectAnswer" : "Data Architecting"
+    },
+    {
+        "Question" : "This fully describes the internal detail of each software component. To accomplish this, design defines data structures for all local data objects and algorithmic detail for all processing that occurs within a component and an interface that allows access to all component operations (behaviors).",
+        "CorrectAnswer" : "Component-Level Design"
+    },
+    {
+        "Question" : "This indicate how software functionality and subsystems will be allocated within the physical computing environment that will support the software.",
+        "CorrectAnswer" : "Deployment-level design"
+    },
+    {
+        "Question" : "This occurs as the result of the collection of one or more data points (e.g., a number of component reviews and unit tests are investigated to collect measures of the number of errors for each).",
+        "CorrectAnswer" : "Measurement"
+    },
+    {
+        "Question" : "This should have desirable mathematical properties.",
+        "CorrectAnswer" : "Metric"
+    },
+    {
+        "Question" : "This should measure the factor of interest, independently of other factors.",
+        "CorrectAnswer" : "Metric"
+    },
+    {
+        "Question" : "This has been described as a multistep process in which representations of data and program structure, interface characteristics, and procedural detail are synthesized from information requirements.",
+        "CorrectAnswer" : ""
+    },
+    {
+        "Question" : "This is the preliminary blueprint from which software is constructed.",
+        "CorrectAnswer" : "Architectural Design"
+    },
+    {
+        "Question" : "This represents the structure of data and program components that are required to build a computer-based system.",
+        "CorrectAnswer" : "Architectural Design"
+    },
+    {
+        "Question" : "This is the structure or structures of the system, which comprise software components, the externally visible properties of those components, and the relationships among them.",
+        "CorrectAnswer" : "Software Architecture"
+    },
+    {
+        "Question" : "This can be something as simple as a program module or an object-oriented class, but it can also be extended to include databases and “middleware” that enable the configuration of a network of clients and servers.",
+        "CorrectAnswer" : "Software Component"
+    },
+    {
+        "Question" : "Architecture is an ______ for communication between all parties",
+        "CorrectAnswer" : "Enabler"
+    },
+    {
+        "Question" : "Architecture ______ early design decisions.",
+        "CorrectAnswer" : "Highlights"
+    },
+    {
+        "Question" : "Architecture ______ an intellectually understandable model of how the system is structured and how its components work together.",
+        "CorrectAnswer" : "Constitutes"
+    },
+    {
+        "Question" : "In the ________ of Grady Booch, he suggested the following architectural genres for software-based systems",
+        "CorrectAnswer" : "Handbook of Software Architecture"
+    },
+    {
+        "Question" : "Systems that simulate or augment human cognition, locomotion, or other organic processes.",
+        "CorrectAnswer" : "Artificial Intelligence"
+    },
+    {
+        "Question" : "Systems that are fundamental to the operation of a business enterprise.",
+        "CorrectAnswer" : "Commercial and nonprofit"
+    },
+    {
+        "Question" : "Systems that provide the infrastructure for transferring and managing data, for connecting users of that data, or for presenting data at the edge of an infrastructure.",
+        "CorrectAnswer" : "Communications"
+    },
+    {
+        "Question" : "Systems that are used to create or manipulate textual or multimedia artifacts.",
+        "CorrectAnswer" : "Content Authoring"
+    },
+    {
+        "Question" : "Systems that interact with the physical world to provide some point service for an individual.",
+        "CorrectAnswer" : "Devices"
+    },
+    {
+        "Question" : "Systems that manage public events or that provide a large group entertainment experience.",
+        "CorrectAnswer" : "Entertainment and sports"
+    },
+    {
+        "Question" : "Systems that provide the infrastructure for transferring and managing money and other securities.",
+        "CorrectAnswer" : "Financial"
+    },
+    {
+        "Question" : "Systems that provide an entertainment experience for individuals or groups.",
+        "CorrectAnswer" : "Games"
+    },
+    {
+        "Question" : "Systems that support the conduct and operations of a local, state, federal, global, or other political entity.",
+        "CorrectAnswer" : "Government"
+    },
+    {
+        "Question" : "Systems that simulate or control physical processes.",
+        "CorrectAnswer" : "Industrial"
+    },
+    {
+        "Question" : "Systems that support the legal industry.",
+        "CorrectAnswer" : "Legal"
+    },
+    {
+        "Question" : "Systems that diagnose or heal or that contribute to medical research.",
+        "CorrectAnswer" : "Medical"
+    },
+    {
+        "Question" : "Systems for consultation, communications, command, control, and intelligence (C4I) as well as offensive and defensive weapons.",
+        "CorrectAnswer" : "Military"
+    },
+    {
+        "Question" : "Systems that sit just above hardware to provide basic software services.",
+        "CorrectAnswer" : "Operating systems"
+    },
+    {
+        "Question" : "Systems that sit just above operating systems to provide advanced services.",
+        "CorrectAnswer" : "Platforms"
+    },
+    {
+        "Question" : "Systems that are used for scientific research and applications.",
+        "CorrectAnswer" : "Scientific"
+    },
+    {
+        "Question" : "Systems that are used to develop other systems.",
+        "CorrectAnswer" : "Tools"
+    },
+    {
+        "Question" : "Systems that control water, ground, air, or space vehicles.",
+        "CorrectAnswer" : "Transportation"
+    },
+    {
+        "Question" : "Systems that interact with other software to provide some point service.",
+        "CorrectAnswer" : "Utilities"
+    },
+    {
+        "Question" : "This is a transformation that is imposed on the design of an entire system. The intent is to establish a structure for all components of the system.",
+        "CorrectAnswer" : "Architectural Style"
+    },
+    {
+        "Question" : "This is drawn to define and clarify the boundaries of the software system. It identifies the flows of information between the system and external entities. The entire software system is shown as a single process.",
+        "CorrectAnswer" : "Context Diagram"
+    },
+    {
+        "Question" : "A mapping technique that is often characterized as a data flow-oriented design method because it provides a convenient transition from a data flow diagram to software architecture.",
+        "CorrectAnswer" : "Structured Design"
+    },
+    {
+        "Question" : "This creates an effective communication medium between a human and a computer.",
+        "CorrectAnswer" : "User Interface Design"
+    },
+    {
+        "Question" : "This identifies interface objects and actions and then creates a screen layout that forms the basis for a user interface prototype.",
+        "CorrectAnswer" : "Design"
+    },
+    {
+        "Question" : "This job designs the user interface by applying an iterative process that draws on predefined design principles.",
+        "CorrectAnswer" : "Software Engineer"
+    },
+    {
+        "Question" : "The collective terms for interaction mechanisms.",
+        "CorrectAnswer" : "Graphical User Interface"
+    },
+    {
+        "Question" : "These were defined to enable software designers to build systems that properly implemented the golden rules.",
+        "CorrectAnswer" : "Interaction Mechanisms"
+    },
+    {
+        "Question" : "These were identified and applied to all human interaction with technology products.",
+        "CorrectAnswer" : "Golden Rules"
+    },
+    {
+        "Question" : "UI Analysis and Design",
+        "CorrectAnswer" : "The overall process for analyzing and designing a user interface begins with the creation of different models of system function (as perceived from the outside)."
+    },
+    {
+        "Question" : "Category of users that has no syntactic knowledge of the system and little semantic knowledge of the application or computer usage in general.",
+        "CorrectAnswer" : "Novices"
+    },
+    {
+        "Question" : "Category of users that has reasonable semantic knowledge of the application but relatively low recall of syntactic information necessary to use the interface.",
+        "CorrectAnswer" : "Knowledgeable and intermittent users"
+    },
+    {
+        "Question" : "Category of users that has good semantic and syntactic knowledge that often leads to the “power-user syndrome”; that is, individuals who look for shortcuts",
+        "CorrectAnswer" : "Knowledgeable and frequent users"
+    },
+    {
+        "Question" : "This is the image of the system that end users carry in their heads.",
+        "CorrectAnswer" : "Mental Model"
+    },
+    {
+        "Question" : "This combines the outward manifestation of the computer-based system (the look and feel of the interface), coupled with all supporting information (books, manuals, videotapes, help files) that describes interface syntax and semantics.",
+        "CorrectAnswer" : "Implementation Model"
+    },
+    {
+        "Question" : "This describes the manner in which an actor (in the context of user interface design, an actor is always a person) interacts with a system.",
+        "CorrectAnswer" : "Use Cases"
+    },
+    {
+        "Question" : "When used as part of task analysis, the _______ is developed to show how an end user performs some specific work-related task.",
+        "CorrectAnswer" : "Use Cases"
+    },
+    {
+        "Question" : "This can span a formality spectrum that ranges from an informal “test drive,” in which a user provides impromptu feedback to a formally designed study that uses statistical methods for the evaluation of questionnaires completed by a population of end users.",
+        "CorrectAnswer" : "Design Evaluation"
+    }
+]
